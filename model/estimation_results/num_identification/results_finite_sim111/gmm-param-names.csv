@@ -1,0 +1,17 @@
+param_name,factor,fixed_value
+alpha,6.0,
+delta,0.01,90.0
+gamma,1.0,
+gamma_01_factor,1.0,1.0
+fe_early,1.0,
+fe_late,1.0,0.0
+fe_w1,1.0,0.0
+fe_w2,1.0,0.0
+fe_w3,1.0,0.0
+fe_w4,1.0,0.0
+beta_e,6.0,
+beta_l,6.0,
+sigma_dt,1.0,
+mu,1.0,
+prob_respond_alpha,0.01,100.0
+prop_to_wage,1.0,0.0

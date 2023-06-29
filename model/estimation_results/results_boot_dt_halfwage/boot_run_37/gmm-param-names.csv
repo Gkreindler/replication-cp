@@ -1,0 +1,7 @@
+param_name,factor,fixed_value
+alpha,6.0,13.75
+beta_e,6.0,
+beta_l,6.0,
+sigma_dt,1.0,
+mu,1.0,60.0
+prob_respond_alpha,0.01,100.0

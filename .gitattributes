@@ -1,0 +1,17 @@
+data/coded_gps/sample_complete_chains_15[[:space:]]no[[:space:]]PII.csv filter=lfs diff=lfs merge=lfs -text
+data/coded_gps/sample_complete_chains_30[[:space:]]no[[:space:]]PII.csv filter=lfs diff=lfs merge=lfs -text
+data/coded_gps/sample_complete_chains_60[[:space:]]no[[:space:]]PII.csv filter=lfs diff=lfs merge=lfs -text
+data/coded_gps_data/chains_complete_15.dta filter=lfs diff=lfs merge=lfs -text
+data/coded_gps_data/coded_days_15.dta filter=lfs diff=lfs merge=lfs -text
+data/coded_gps_data/coded_days_30.dta filter=lfs diff=lfs merge=lfs -text
+data/coded_gps_data/coded_days_60.dta filter=lfs diff=lfs merge=lfs -text
+data/coded_gps_data/coded_days_peak_15_20.dta filter=lfs diff=lfs merge=lfs -text
+data/coded_gps_data/coded_days_peak_30_20.dta filter=lfs diff=lfs merge=lfs -text
+data/coded_gps_data/coded_days_peak_60_20.dta filter=lfs diff=lfs merge=lfs -text
+data/coded_gps_data/coded_trips_15.dta filter=lfs diff=lfs merge=lfs -text
+data/coded_gps_data/coded_trips_30.dta filter=lfs diff=lfs merge=lfs -text
+data/coded_gps_data/coded_trips_60.dta filter=lfs diff=lfs merge=lfs -text
+data/coded_gps_data/*.dta filter=lfs diff=lfs merge=lfs -text
+data/google_maps/*.dta filter=lfs diff=lfs merge=lfs -text
+data/google_maps/*.csv filter=lfs diff=lfs merge=lfs -text
+data/coded_gps_dta/*.dta filter=lfs diff=lfs merge=lfs -text

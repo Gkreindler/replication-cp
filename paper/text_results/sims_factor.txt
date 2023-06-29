@@ -1,0 +1,8 @@
+The elasticity of Deadweight Loss with respect to equilibrium peak excelle travel delay is = 2.297281582620591
+
+If eqm travel delay were 4.467289366093735 then DWL would be 4.178127573363276
+
+If eqm travel delay were 3.537136392185037 then DWL would be 1.2181915497955451
+
+Benchmark: eqm     delay 3.975378729508183 and DWL =         2.290354260839759
+

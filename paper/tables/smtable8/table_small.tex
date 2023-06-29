@@ -1,0 +1,28 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{2}{c}}
+\toprule
+            &\multicolumn{2}{c}{Hypothetical Route Charges}\\\cmidrule(lr){2-3}
+            &\multicolumn{1}{c}{(1)}   &\multicolumn{1}{c}{(2)}   \\
+\addlinespace\addlinespace
+Treated $\times$ High Rate&       -41.1***&               \\
+            &      (13.1)   &               \\
+\addlinespace
+Treated $\times$ Low Rate&       -21.5   &               \\
+            &      (13.3)   &               \\
+\addlinespace
+Treated $\times$ Short Detour&               &       -43.0***\\
+            &               &      (15.4)   \\
+\addlinespace
+Treated $\times$ Long Detour&               &       -26.2   \\
+            &               &      (17.8)   \\
+\addlinespace\addlinespace
+Observations&       6,129   &       3,693   \\
+Commuters   &         243   &         148   \\
+Control Mean&       117.1   &       122.7   \\
+P-val Equal Sub-treatment Effects&        0.30   &        0.48   \\
+\bottomrule
+\multicolumn{3}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{3}{l}{\footnotesize * p$<$.10, ** p$<$.05, *** p$<$.01}\\
+\end{tabular}
+}

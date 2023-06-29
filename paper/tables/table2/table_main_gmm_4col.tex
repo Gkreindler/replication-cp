@@ -1,0 +1,42 @@
+\resizebox*{\textwidth}{!}{\begin{tabular}{lcccc}
+   \toprule
+   & (1) & (2) & (3) & (4) \\
+ \textit{Model:}  & Benchmark & \multicolumn{2}{c}{\thead{Only Departure Time \\ Calibrated VOTT}} & \thead{Only \\ Route Choice}  \\
+   \addlinespace\addlinespace
+$\beta_E$: Schedule cost early (INR/hour) & 545 & 483 & 527 &  \\ 
+    & [312, 1821] & [257, 1238] & [246, 1386] &  \\ 
+   \addlinespace
+$\beta_L$: Schedule cost late (INR/hour) & 348 & 328 & 330 &  \\ 
+    & [248, 1234] & [234, 1881] & [233, 1236] &  \\ 
+   \addlinespace
+$\alpha$: Value of travel time (INR/hour) & 611 & 82 & 165 & 562 \\ 
+    & [340, 1279] &  &  & [355, 1162] \\ 
+   \addlinespace
+$\gamma$: Route switching cost (INR) & 80.1 &  &  & 86.4 \\ 
+    & [37.4, 110.0] &  &  & [42.3, 106.7] \\ 
+   \addlinespace
+$\sigma^{DT}$: Logit departure time & 20.5 & 16.8 & 16.4 &  \\ 
+    & [1.0, 70.3] & [1.0, 72.8] & [1.0, 107.5] &  \\ 
+   \addlinespace
+$\sigma^R$: Logit route (upper nest) & 57.9 &  &  & 57.7 \\ 
+    & [41.6, 74.9] &  &  & [44.4, 73.6] \\ 
+   \addlinespace
+\addlinespace 
+\multicolumn{5}{l}{\textit{Model Components:}}  \\ 
+ \addlinespace 
+ Route choice model         & Dynamic & -  & - & Dynamic  \\ 
+ \addlinespace 
+ Calibrated VOTT $ \alpha $ &  -   & $50\%$ wage    & $100\%$ wage    &    -     \\ 
+ \addlinespace 
+ Departure time model       & Yes     & Yes    & Yes    &     -     \\ 
+ \addlinespace\addlinespace 
+ \multicolumn{5}{l}{\textit{Moments:}}  \\ 
+ \addlinespace 
+  Departure time (49)        & Yes & Yes & Yes & -   \\ 
+ \addlinespace 
+  Dynamic route choice (10)  & Yes &  -  &  -  & Yes \\ 
+ \addlinespace 
+    \bottomrule 
+ \end{tabular} 
+ } 
+

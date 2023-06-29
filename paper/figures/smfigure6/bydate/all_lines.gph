@@ -1,0 +1,3322 @@
+StataFileTM:00001:01000:LiveGPH:                       :
+00008:00008:
+*! classname: twowaygraph_g
+*! family: twoway
+*! command: twoway (line delay_pred density_norm if date == 20920, lcolor(blue%20))                         (line delay_pred density_norm if date == 20921, lcolor(blue%20))                         (line delay_pred density_norm if date == 20922, lcolor(blue%20))                         (line delay_pred density_norm if date == 20923, lcolor(blue%20))                         (line delay_pred density_norm if date == 20924, lcolor(blue%20))                         (line delay_pred density_norm if date == 20927, lcolor(blue%20))                         (line delay_pred density_norm if date == 20928, lcolor(blue%20))                         (line delay_pred density_norm if date == 20929, lcolor(blue%20))                         (line delay_pred density_norm if date == 20930, lcolor(blue%20))                         (line delay_pred density_norm if date == 20931, lcolor(blue%20))                         (line delay_pred density_norm if date == 20933, lcolor(blue%20))                         (line delay_pred density_norm if date == 20934, lcolor(blue%20))                         (line delay_pred density_norm if date == 20935, lcolor(blue%20))                         (line delay_pred density_norm if date == 20936, lcolor(blue%20))                         (line delay_pred density_norm if date == 20937, lcolor(blue%20))                         (line delay_pred density_norm if date == 20938, lcolor(blue%20))                         (line delay_pred density_norm if date == 20941, lcolor(blue%20))                         (line delay_pred density_norm if date == 20942, lcolor(blue%20))                         (line delay_pred density_norm if date == 20943, lcolor(blue%20))                         (line delay_pred density_norm if date == 20944, lcolor(blue%20))                         (line delay_pred density_norm if date == 20945, lcolor(blue%20))                         (line delay_pred density_norm if date == 20947, lcolor(blue%20))                         (line delay_pred density_norm if date == 20948, lcolor(blue%20))                         (line delay_pred density_norm if date == 20949, lcolor(blue%20))                         (line delay_pred density_norm if date == 20950, lcolor(blue%20))                         (line delay_pred density_norm if date == 20951, lcolor(blue%20))                         (line delay_pred density_norm if date == 20952, lcolor(blue%20))                         (line delay_pred density_norm if date == 20954, lcolor(blue%20))                         (line delay_pred density_norm if date == 20955, lcolor(blue%20))                         (line delay_pred density_norm if date == 20956, lcolor(blue%20))                         (line delay_pred density_norm if date == 20957, lcolor(blue%20))                         (line delay_pred density_norm if date == 20958, lcolor(blue%20))                         (line delay_pred density_norm if date == 20959, lcolor(blue%20))                         (line delay_pred density_norm if date == 20961, lcolor(blue%20))                         (line delay_pred density_norm if date == 20962, lcolor(blue%20))                         (line delay_pred density_norm if date == 20963, lcolor(blue%20))                         (line delay_pred density_norm if date == 20964, lcolor(blue%20))                         (line delay_pred density_norm if date == 20965, lcolor(blue%20))                         (line delay_pred density_norm if date == 20966, lcolor(blue%20))                         (line delay_pred density_norm if date == 20968, lcolor(blue%20))                         (line delay_pred density_norm if date == 20969, lcolor(blue%20))                         (line delay_pred density_norm if date == 20970, lcolor(blue%20))                         (line delay_pred density_norm if date == 20971, lcolor(blue%20))                         (line delay_pred density_norm if date == 20972, lcolor(blue%20))                         (line delay_pred density_norm if date == 20973, lcolor(blue%20))                         (line delay_pred density_norm if date == 20975, lcolor(blue%20))                         (line delay_pred density_norm if date == 20976, lcolor(blue%20))                         (line delay_pred density_norm if date == 20977, lcolor(blue%20))                         (line delay_pred density_norm if date == 20978, lcolor(blue%20))                         (line delay_pred density_norm if date == 20979, lcolor(blue%20))                         (line delay_pred density_norm if date == 20980, lcolor(blue%20))                         (line delay_pred density_norm if date == 20982, lcolor(blue%20))                         (line delay_pred density_norm if date == 20983, lcolor(blue%20))                         (line delay_pred density_norm if date == 20984, lcolor(blue%20))                         (line delay_pred density_norm if date == 20985, lcolor(blue%20))                         (line delay_pred density_norm if date == 20986, lcolor(blue%20))                         (line delay_pred density_norm if date == 20987, lcolor(blue%20))                         (line delay_pred density_norm if date == 20989, lcolor(blue%20))                         (line delay_pred density_norm if date == 20990, lcolor(blue%20))                         (line delay_pred density_norm if date == 20991, lcolor(blue%20))                         (line delay_pred density_norm if date == 20992, lcolor(blue%20))                         (line delay_pred density_norm if date == 20993, lcolor(blue%20))                         (line delay_pred density_norm if date == 20994, lcolor(blue%20))                         (line delay_pred density_norm if date == 20996, lcolor(blue%20))                         (line delay_pred density_norm if date == 20997, lcolor(blue%20))                         (line delay_pred density_norm if date == 20998, lcolor(blue%20))                         (line delay_pred density_norm if date == 20999, lcolor(blue%20))                         (line delay_pred density_norm if date == 21000, lcolor(blue%20))                         (line delay_pred density_norm if date == 21001, lcolor(blue%20))                         (line delay_pred density_norm if date == 21003, lcolor(blue%20))                         (line delay_pred density_norm if date == 21004, lcolor(blue%20))                         (line delay_pred density_norm if date == 21005, lcolor(blue%20))                         (line delay_pred density_norm if date == 21006, lcolor(blue%20))                         (line delay_pred density_norm if date == 21007, lcolor(blue%20))                         (line delay_pred density_norm if date == 21008, lcolor(blue%20))                         (line delay_pred density_norm if date == 21010, lcolor(blue%20))                         (line delay_pred density_norm if date == 21011, lcolor(blue%20))                         (line delay_pred density_norm if date == 21012, lcolor(blue%20))                         (line delay_pred density_norm if date == 21013, lcolor(blue%20))                         (line delay_pred density_norm if date == 21014, lcolor(blue%20))                         (line delay_pred density_norm if date == 21015, lcolor(blue%20))                         (line delay_pred density_norm if date == 21017, lcolor(blue%20))                         (line delay_pred density_norm if date == 21018, lcolor(blue%20))                         (line delay_pred density_norm if date == 21019, lcolor(blue%20))                         (line delay_pred density_norm if date == 21020, lcolor(blue%20))                         (line delay_pred density_norm if date == 21021, lcolor(blue%20))                         (line delay_pred density_norm if date == 21022, lcolor(blue%20))                         (line delay_pred density_norm if date == 21024, lcolor(blue%20))                         (line delay_pred density_norm if date == 21025, lcolor(blue%20))                         (line delay_pred density_norm if date == 21026, lcolor(blue%20))                         (line delay_pred density_norm if date == 21027, lcolor(blue%20))                         (line delay_pred density_norm if date == 21028, lcolor(blue%20))                         (line delay_pred density_norm if date == 21029, lcolor(blue%20))                         (line delay_pred density_norm if date == 21031, lcolor(blue%20))                         (line delay_pred density_norm if date == 21032, lcolor(blue%20))                         (line delay_pred density_norm if date == 21033, lcolor(blue%20))                         (line delay_pred density_norm if date == 21034, lcolor(blue%20))                         (line delay_pred density_norm if date == 21035, lcolor(blue%20))                         (line delay_pred density_norm if date == 21040, lcolor(blue%20))                         (line delay_pred density_norm if date == 20939, lcolor(green%75))                         (line delay_pred density_norm if date == 20946, lcolor(green%75))                         (line delay_pred density_norm if date == 20953, lcolor(green%75))                         (line delay_pred density_norm if date == 20960, lcolor(green%75))                         (line delay_pred density_norm if date == 20967, lcolor(green%75))                         (line delay_pred density_norm if date == 20974, lcolor(green%75))                         (line delay_pred density_norm if date == 20981, lcolor(green%75))                         (line delay_pred density_norm if date == 20988, lcolor(green%75))                         (line delay_pred density_norm if date == 20995, lcolor(green%75))                         (line delay_pred density_norm if date == 21009, lcolor(green%75))                         (line    delay_mean_hour_predicted      density_norm, lcolor(red) lpattern(dash) sort )                         , legend(order(1 "Mon-Sat" 108 "Sunday" 110 "all dates fit") cols(1) position(5) ring(0) ) graphregion(color(white))                         xlabel(0(0.5)2.5, grid) xtitle("Traffic density") ylabel(2(1)4.5, nolabels grid) ytitle(" ")                         title(" Fit by calendar date ", position(12) ring(0) size(medium))
+*! command_date: 28 Jun 2023
+*! command_time: 22:21:42
+*! datafile: data/coded_road_tech/density_th.dta
+*! datafile_date: 28 Jun 2023 21:46
+*! scheme: stcolor
+*! naturallywhite: 1
+*! xsize: 7.5
+*! ysize: 4.5
+*! end
+<BeginItem> serset K4ef81ce8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.001149415969849
+.max =  4.393785953521729
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.172123432159424
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        Z @            <“@   @‚`@Õ @    Õ @    `@@ÓB;‰@p’<ßó@
+5˜=
+‚@ÉÚÄ=!„@9P>ı @•>Ò`1@Èù>Â4@K°?‚}N@6Õe?ó¤P@I4n?^²W@ğ…?©W[@@iŒ?sÆ\@T?]á^@¤“?Â:e@Õ ?Ï£m@s·²?'ûp@Jò¹?ÌEq@¥”º?SŞt@×qÂ?fÊu@_yÄ?yƒy@ú·Ì?å™Œ@@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef82b98 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.933381199836731
+.max =  4.495430946350098
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0019818644504994
+.max =  2.432738542556763
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        !ïş?   `E<`?   @Rû@    ?v@	y÷?+â;Kş?…S<@µZ"=…ç@Øx*=Ùğ@Õ=™û@´é>Q,@-S >y•-@O³Ü>$7@nÎ??'C@hp9?ĞT@i|?Ü.\@t?Çy\@ç?·—\@ØW?ê ^@SÈ”? ı`@¡û™?şTa@u¾š?Á[b@ï?©¹o@â¸»?$lp@_½?¡Æt@ÅÇ??rƒ@>íô?l‚‰@·a
+@’Ú@ı±@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef82508 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.986743927001953
+.max =  4.499752998352051
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.538768291473389
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        ´Éÿ?           @¿ÿ@   ÀeO@ Mş?    5ş@…S<¤£@M Š<Î…@3¦{=¬W@ÉÚÄ=€^@ &Ù=º@RâF>4n@†Í><ß0@åÆ?"A@íI?ÎÑW@E	•?¨IZ@„}š?;ÍZ@Á¡›?—,`@|®§?¨‚`@Oq¨?«fe@¿š³?¬§g@Î¸?¨l@¹óÂ?Zl@ª4Ã?Raq@Ï¢Ï?áXs@;TÔ?(Q@ªù?3„@Â¨@úı@.{"@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef82008 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.026047229766846
+.max =  3.911270141601563
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  1.846106648445129
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       @X5 @            HJ@    §‰ı?Âª@    Âª@    ŸW@M Š< ô@_=Ú@Åø‡=}M@è=t@ñV!>å@„\€>)'@×Ã>nª6@D?¬.=@¦6?ÃJE@.åX?$»H@¾Üg?ZğN@²Á?ÑÀW@	–?mâ[@JÑŸ?_@‹m§?Ì__@^0¨?Oa@Êá¬?Z’a@%„­?2èc@V9³?Le@¦¶?¿il@øgÈ?@Rz@9Mì?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef82968 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.051966905593872
+.max =  3.958476305007935
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  1.756922841072083
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        mj @            õª@    [ü?mS@    +´@…S<¯@µZ¢<§@3¦û<P-	@µZ"=Ô@¦¼¼=_Å@TSå=Õ@ù%> «@Od>
+‹:@š,'?€GM@´½p?Œ Q@5ö?úU@.Zˆ?\Y]@)Û™?“l_@¤K?n˜h@‘5²?Œ/k@Âê·?¤7l@;3º?ó«n@{§¿?ìo@×qÂ?sÊq@a¡Æ?cpt@‚—Ì?ôŸv@ß‰Ñ?­W}@Ùâà?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef83ef8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.955912113189697
+.max =  4.131583213806152
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  1.613690972328186
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       €jKÿ?           À½†@    ­Ñù?T[ú?    Ï7@­ë›<*@ÿĞ½<BS@í_Ë<ç»	@1„=î@ØZò=º¿@y,+>ƒ{ @Åƒ>ßÉ+@f¿>H4@·±í>9UR@–÷U?$V@•­b?*Y\@`Ix?v›_@üÜ?º l@Ôl˜?•8m@pš?‘]p@uC ?îqq@­F¢?òvr@Æ.¤? d|@‰	·?f4~@bˆº?€À~@Œ—»?ì„@ºêÍ?î5„@mÎ?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef83638 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.008608818054199
+.max =  4.129396915435791
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  1.733683347702026
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       €¡ @            €„@   À*½û? @    şR@$³"<Ih@í_K=Ñ
+@e¤=>@›z©=Šœ@Í¥³=î@Œç>Ç!@5Ú¡>‹(@T¥Ì>±|7@ŒB?"å>@šÕ/?q%S@”¾u?óU@Š³?'Ê]@Hğ?ë<d@:²™?Î¸h@Sõ¡?Öm@Nª?0q@´½±?‚•w@ÿĞ½?9z@?•Â?à+€@mÎ?¨ª€@†uĞ?óª‚@
+1Ø?$„@Véİ?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef83db8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.951906681060791
+.max =  4.10963773727417
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0074478043243289
+.max =  1.864433646202087
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       €;ÿ?   À–~?   àDp@   `¸Ôı?Øù?¶ô;‘¦ı?ÒÍ€<ã¢@-Ôú<¯@È}f=º½@ÙZò=¨h@Œç>ä@@†|>aš@{>ÿO+@§yÛ>Ã27@ƒ?LÒT@?hÒZ@Y?:]@{À‘?”£^@ûí”?ú×^@rZ•?)ò^@®•?9Âe@lİ£?tf@=›¤?á,i@y,«?³.m@	Ü³?ê/s@Á?/@Ñãâ?Öƒ@2Qì?'‚ƒ@Ã¥î?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef836d8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.038211107254028
+.max =  4.183809757232666
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0256535485386848
+.max =  2.015872478485107
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        AN @   €ìDš?    8¼@   À  @r@d'Ò<ö¹@È}æ<`é@¶ô<>^@ù
+=€à	@í_Ë=ã€@ğó1>å;@aIx>Öo@‹ø£>e€@e¤>f9@ v7?f±K@F¼|?z×T@ÙD?„7U@ª‘?…‘W@Ì«•?°^@Œ£?ÒJf@tT³?ÿòn@ Å?”Ao@¿ÂÅ?§sq@ÂPÊ?B¸u@6Ó?¾w@9s×?vÂy@ã¯Û?šƒ@+ö?Åá…@@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef838b8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.948802590370178
+.max =  4.162068367004395
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.039870738983154
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        K.ÿ?           @õ¥@   À§Q @]rù?    ]rù?    •@û¨p=îW@tŞ=¢r@ŸX>¡ã@{À>\~@¯Úˆ>Q©@­ë›>ÄÌ@œÄœ>4@‹B?E7@X( ?‡¼N@ÏO|?¶}\@¾›?iG_@d¡?qèb@#©?¨øe@šÕ¯?1£f@<Q±?3ïj@Ùôº?3sk@"¼?èl@Äš½?†wv@pÕ?Qè‚@>ûù?1Gƒ@9Èû?ª/…@>@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef83958 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.027240991592407
+.max =  4.353903293609619
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0051128380000591
+.max =  2.002041101455688
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        Ê7 @    3ñt?    ej@    . @Q¾@˜‰§;˜a@stÅ<Ç@#3=9@6='L@e˜’=1Z@=Ì#>¹r@±/L>Òz@Ëz¼>,í@®x¿>6@ÖD.?ĞôC@$ó]?@ŸM@|k?f]@Q2›?pI`@À> ?*©`@Iæ ?8çb@ƒÓ¤?Œ<m@±ö¶?4m@L†·?Ä„u@cŒÅ?Dw@xBÈ?Jçw@iÁÉ?`Ïy@Í?U’~@‰Õ?-S‹@q! @
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef830e8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.953792214393616
+.max =  4.382888793945313
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0094952704384923
+.max =  2.078003406524658
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        »Bÿ?    Arƒ?    ˆ@   @ÀŸ @İú?’<»«ş?Ó¡<Ç÷ş?˜‰§<'@®x?=ÃZ@eóÆ=bD@ÏÖ> c@Æ:>G«@·¹>‹w)@!SÇ>¥õ6@\ü?”8K@˜ûQ?à”Q@5+i?Å£U@‚Px?4\@f¯ˆ?$ğa@xç“?šei@æÜ¢?P¤k@©q§?v÷s@p½¸?Ót@_Õ¸?Ït@/„º?¨€@'qÕ?:|@“Ù?á‚@7Bß? @Œ@ş@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef83368 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.944665193557739
+.max =  4.245759963989258
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0248337853699923
+.max =  2.155426263809204
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       @Yÿ?    n™?   €¨û@    P>@Êêø?9pË<:™@‰c]=p?@š=ï™@ğ=õ3@#³=5Ó@ŸRõ=³™@››h>İ0@Ñ>p¤3@,Â?ª(7@Ù‰?rìP@ õq?ò)S@dN{?Y@5^Š?©Ê\@v€’?A–]@4G”?Ãäb@¯V ?ƒùb@† ?\ñf@È©?ÁYz@ÖÙ?\Ü|@kaà?Ìoƒ@u6û?HE„@7Ëÿ?ÁE†@­u@Dİ‡@ò	@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef84ee8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.924571752548218
+.max =  4.144954681396484
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.194137811660767
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       ÀËş?            o”@    ˜@^Xö?    Ø@dNû<ÿG@*”=ï|@[i=ŸD@9pË=jÏ@áiÔ=!Á@#Üg>‹3@S`‡>«%@å­>ÔkE@nN?šªR@
+ò„?ôUV@å£?˜ôZ@øÛ˜?‰‘_@×[¤?+`@{¥?ù-b@&ÿª?¯Zo@ŞÍ?—Yw@Çä?”¥w@.öä?cy@®êé?î|@C•ñ?úÆ€@óÔ @Ê @*[@x£„@Ál@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef85668 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.952068090438843
+.max =  4.142261028289795
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0094952704384923
+.max =  2.18683385848999
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       À«;ÿ?    Arƒ?   à¬‘@   À¢~@^İù?’<ã@è|9=&˜@dN{=™¿@‘=¦*@ œ>´@µ‹$>ü!@—ä[>Sæ @á >Q±+@uıå>ÓŞR@Dßˆ?@U@ÄÓ?ôW@e˜’?Êda@Ÿ¾«?¼{c@ìú°?©íc@!²?«m@[@Ë?¢eo@ÕÏ?2=p@ˆÒ?”r@ğÖ?ªv@>wã?Skz@ç×í?Ad‚@‹¥@hêƒ@h
+@g„@õ@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef84998 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.002150774002075
+.max =  4.120052337646484
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0277554057538509
+.max =  1.70622706413269
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        g @   Àékœ?    ïz@   À´Lû?=# @N_ã<ÿN@Ú =Ë @VrH=êg@ÙVo=úµ@‘> y@=Ì#>J¶ @;Cƒ>Í¦!@À‡>CÀ%@Êñ›>òr1@cÅÚ>¨[N@iÁI?‹ºN@|K? VR@^÷W?é·h@Jı–?j@¶¢š?Æ¯k@ÿ?G-s@åÅ¬?Æft@d¯?gu@†Š±?m÷u@ªÁ²?,"w@âGµ?—}@²FÂ?u-€@z©É?x×ƒ@¦eÚ?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef850c8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.007509469985962
+.max =  4.135587215423584
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.059008121490479
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        a @           `×Š@   @Ùx @	{ @    	{ @    ÷Ú@ßÖ<°@#y'=×Ï@cOs=à@Jîá=@,?>ˆ#@ém‹>èÿ@ˆõ>æ¾@@ 8K?ÄşL@g”}?„CP@º³…?QšU@(‘?ßX@-D˜?Î”]@w¢¢?>d@˜‹±?ÃĞf@_·?ê8t@¦`Ö? Út@ÕÛ×?wEu@ŸØØ?GGw@–İ?Ë÷{@‰¾è?Ó}@ië?»V„@ÊÆ@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef84a88 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.00412130355835
+.max =  4.341202259063721
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0216006841510534
+.max =  2.427762508392334
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       Àp @   `}–?    d]@   Àl@†C @ëó°<Ws @ —½<ês@CdM=Q‡@¬ä¥=‚@aˆ²=ö-@ï>0û@¡V¢>µW@£ÜÇ>Ò"@Q7Û> ø.@ê0?GR@9“—?åìU@~* ?™JZ@Õ×©?ãe@v"Â?¹e@kÃ?nj@Š}Í?İÁk@ú‰Ñ?&Ás@´3ä?ÑLt@U|å?j#u@éuç?œX@ŠÀÿ?4÷€@ü@ıÃ‰@_ƒ@!ëŠ@v`@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef847b8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.933267712593079
+.max =  4.206735134124756
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0054001710377634
+.max =  2.491793155670166
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        ªîş?   `}v?   `²Ó@   @1ï@Qu÷?ëó°;Ÿ @¢ª<£y@ëó0=’½@ÅE7=[l@gK>·@á$>á½@t_/>eg!@´-Ÿ>Eê&@@Ã>¼B@„õO?Ø©G@®«f?K4V@ª`—?Ÿ­[@¬ä¥?šh\@AŞ§?9§`@,…³?prd@M/¾?Ôf@ÿÄ?èk@$>Ñ?GUl@Õ?o@ucİ?—=x@ö‡ù?D¡„@K©@jZ…@D!@“†@Šy@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef85618 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.976097702980042
+.max =  4.352334499359131
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0015429059276357
+.max =  2.591310501098633
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        ÿ?    jGY?   `Êh@    »@Åğü?U;Ê:kK@ßÖ<>>@ıÊ-=ßÇ@­«f=à8@ik>ÜW@ˆıl>/@Çx>ß}@0®>±&@ÄÇí>³Ò2@·r)?:,G@İ€?:/R@	Wš?¶ç[@ß¤±?%‰_@ú‡º?Ãh@ú‰Ñ?œ4j@M1Õ?Êj@|¬Ö?lm@ucİ?d€m@–İ?»”o@ëâ?ı€{@ú@H }@mÓ@P‚@î4@SF‹@Ø%@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef84d08 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.014232873916626
+.max =  4.268819808959961
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.17318320274353
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        & @           €E@   à­b@1é @    d‘@À‚c<@	–=×§@¿»¢=¥	@³nº=ÛX@Ë>º–@¹øN>•I@¿»¢>h%@B¥è>‚d7@<Ú8? D@¹9j?!}V@2š?8·X@–?=¹]@Û¨?i@p[À?éo@%ÿÌ?}Ïu@Q7Û?ûú{@lYè?B>~@0í?À~@)Fî?æA@;\ï?lc€@oò?æ®‚@U~ü?,šˆ@o@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef869c8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.013279438018799
+.max =  4.335258960723877
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.425792455673218
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       @2 @            NW@   àh@’Ù @    ’Ù @    ßS@§J“<á§@P»S={‹@û‚³=û&@4É¿=æè@
+@†>t	#@W2¶>ÒA#@»·>º>@7»E?°ë@@áïN?ŠoL@”f€?—ÛM@®ƒ?†„W@O†™?Ë-c@Âµ?	g@¿?Ój@0¦Ç?Â¦l@ù'Ì?Äãm@‡9Ï??øn@ãèÑ?<øo@'gÔ?{@Wgğ?#†@—¼@qºŠ@/@@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef85f78 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.996657967567444
+.max =  4.001081466674805
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0044949832372367
+.max =  1.995772480964661
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        Oòÿ?   àTir?   €@    ¯îÿ?}’ÿ?§J“;;8@×«<~z@Q¸<B@à=,@n¢"=+ß
+@Šöš=¼§@{›,>ó•$@íX·>¬V&@ô<Ã>“N8@M\$?ĞI@ù¾j?À¦M@yu?W@]°•?g]@×¤?a@Ú­?×.b@†¢°?á„d@ı{¶?ï¨e@r\¹?©g@2Ğ¼?P‚p@£\Õ?eÚq@ïèØ?âòz@Ô\ñ?Ùy~@<û?Ü€@yuÿ?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef86158 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.013746738433838
+.max =  4.110194683074951
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0149832777678967
+.max =  2.214528322219849
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       @' @   €¯?   àÖp@    Z·@:á @l|u<w@n¢"=«
+@Ã5=î&@lŞY=>@ûï\=‹'@9=—@Q°>ói@|ı>#à4@FG&?	ù7@°ï2?œ<@@a×U?ÍÕW@Ğ ?îX@¿J¡? Y@± ¥?Ph`@™·µ?Ã£`@äJ¶?d@ÙÀ?	îe@™†Ã?Šo@
+Ü?ö¨r@8Rä?Š0t@BYè?½Ö|@xuÿ?İ}@±@·†ƒ@Õº@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef86568 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.030588865280151
+.max =  4.390043258666992
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.357618570327759
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       `¥> @           €g@    gÜ@+õ@    +õ@    R @ûï\<§À@üŠ=Ñ@Ä‹=O
+@¦è®=ĞÉ@.xŠ>@Ì$@ìÅà>vÛ+@`Ú
+?ƒä7@şt9?u<K@ÇÁƒ?áuT@ï–?^øX@Ïm ?Ô‚Z@v°£?6^@r«?Wc@²èµ?¼†f@}c½?,i@NóÂ?Ãi@‰cÄ?S.o@/Ğ?ÌDo@`Ğ?`Çt@<uÜ?z†@+@<{Œ@9ã@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef861f8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.068853855133057
+.max =  4.371332168579102
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .022474916651845
+.max =  2.484227180480957
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       @ @    ª—?   €>|@   €²ß@h@Q¸<'a@à=&¢@ŠÅ(=ZH@D·>ˆ@§J>Û@˜ >3M@m¢¢>IÚ"@ÂÚÂ>)ø,@‡5?âæ?@hìS?¤{D@R|g?xÊN@¡_Š?/U@_©˜?µ3U@xÚ˜?“E\@»'©?áb@›°¸?ÍÛe@3É¿?¸i@Š\Ç?÷«k@LÉÍ?6–n@åáÔ?cp@!KÙ?5Îr@$=ß?]_†@½‚@ôá‹@”ı@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef86928 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.038333892822266
+.max =  4.467728614807129
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0067424750886858
+.max =  2.070688724517822
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        ‚N @   `ÿ{?   @ôŞ@   @Å @t@ûïÜ;1v@àŸ<ßı@ŞÌÖ<¦ø@àòƒ=f	@ß.»=ªÙ@µC>ÉÉ@$=_>ƒÃ@Jj>PÜ@uÇ><¹>@…@L?8F@rÂe?1ËT@O·‹?ã`W@Œ ?ºX@¶m’?ğc@¨¤?ã«c@± ¥?šÈc@ÉQ¥? •l@ë_´?%Lr@à'¾?&¢r@+»¾?Pt@ ›Á?ß€@Õ¾Õ?ß†@Tuê?¢÷@*†@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef86798 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.084839820861816
+.max =  4.29821252822876
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0160277858376503
+.max =  2.132977485656738
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       €À­ @   €–i?    ^1@   €V@n@´Lƒ<#“@O“Ç<Õf@cü<}{@s¬ =ÄE@ıî=¬¦@>=Äb@¤ ¬=ç¤@›E>×È$@~İ´>ËÒ,@ÃZë>1O@ìUw?£ÍU@C ‰?HìU@I_‰?"ÕW@«O?šöc@#Õ¦?‹0e@du©?¤f@±“¬?Xâh@)k±?j@j´?4íj@—Ùµ?›ªs@rÉ?û|~@ËWá?-€@#ßä?õŠ‰@´‚@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef85938 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.061616897583008
+.max =  4.241264343261719
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0121811171993613
+.max =  2.284279823303223
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        1~ @   àiòˆ?    ÷@   €4F@ˆñ@O“G<×ã@:“<Õ!@ÕT×<³@ıî=s&	@3J=×
+@œ¶i=ô*@j>ÕÏ@1h'>Ö@!@× >ªB1@Vİ	?ş[I@èÔl?7O@µaƒ?PW@n0•?›Y@æš?\@“¡?H;_@Ky¨?`b@ôH¯?©Fb@ Ç¯?åe@Ú¸?Qwm@©DË?²ûo@E–Ñ?¨üu@ÀÙà?›R{@£î?p¸‡@¤1@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef87468 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.06500244140625
+.max =  4.465066909790039
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0070522255264223
+.max =  2.400321006774902
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                         … @   `Ëâ|?   €:Ü@   €Û3@ )@[ç;#@ÀÏ¢<"8@SÒ<jÎ@r¬ =ô@‡15=ŞD	@œ¶i=&Í@†Õ‹><%@‹`Ô>”0@fÜ? l<@Ô¦B?œgP@O‰?zzW@»N˜?˜W@Á˜?ú¹Z@dŸ?òa@±“¬?Ic@%A±?t	p@Î¾Ì?yår@hûÒ?!üw@|$Ş?yÄx@§İß?<ƒ@†’ı?1Xˆ@j¯
+@šFŠ@V@Ôá@Ü@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef87698 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.969941973686218
+.max =  4.185129642486572
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0083344485610723
+.max =  2.462508678436279
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       àá„ÿ?   À¦?    ’½@   À7³@'ü?6<õ°@><]O@N“G=d@	@V•\=Ü+@^ß=u=@3Ê=¦´@=Gğ=™Ü*@I½>“U,@=ëÆ>î°<@›U!?ÂFR@¯"ƒ?ZS@ôì…?,½_@=æ§?BYi@ŠÄ?ƒti@ŞÄ?²Šj@^;È?£aq@xúİ?½r@æhâ?«s@ã?=s@ä?¸¨x@Ğ/ö?Å‹|@È@«z…@ë@•ì…@¾™@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef87d78 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.125595569610596
+.max =  4.293138027191162
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.280433177947998
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       @8@           `,,@   ÀS>@Â	@    Ş‹@[ç;°	@ÌRÂ<§Ø
+@B(=º/@J==j@à¤=@³¨,>ª+!@nãÈ>Û"@ÈÏ>²‘<@Ã¬V?]°N@©‘?YX@…¥?²{Z@„Åª?½+_@|È´?³wc@`ù½?…d@‚^¿?€h@TÒÇ?´j@¿+Ì?–l@+…Ğ?^o@Ø~×?I\p@¡Ù?r@hRİ?´Ñ…@ß;
+@ca‰@ò@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef87058 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.026078701019287
+.max =  4.218372344970703
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0179511196911335
+.max =  2.004114151000977
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       Àh5 @   @Ça’?    ß@    m @F«@:“<é(@ÕT×<é(@ÕT×<w@ÌRB=ëá@BÈú=Ğ@5>ZŸ@nãH>»+@MÙ>»+@MÙ>kB@ğ:?çxJ@MY?ıN@Zg?[b@!iœ?]df@¯¥?Œ—h@|qª?]¥s@ÚåÂ?öïs@êÃ?”›u@GTÇ?
+¨v@‚µÉ?'Q{@Š`Ô?-½@ˆ¢Ş?E3@#ßä?€Ï„@Ìö?èü†@hC @
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef88098 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.046610832214355
+.max =  4.169992923736572
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0046539935283363
+.max =  2.263170480728149
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       €u_ @   às?    ®@    ù@¬û@‡€˜;yå@9“<G@g¥ï<:B@®9=©Ñ
+@Íj”=}u@ÈÑ·=é$@¬k> Î@kit>3'@5á>¨Ù1@‰â?²lJ@aJ‚?F£R@•?üš\@–¬?4­\@™Á¬?E‰b@âº?ôd@© ¾?ìg@BòÅ?(ıj@Ü¥Ï?©am@âšÕ?o@/ÜÙ?˜ìq@5á?Ú.y@Åyó?^@òD@•p…@É×@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef86ce8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.118909358978271
+.max =  4.1575026512146
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0186159741133451
+.max =  2.122220993041992
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       À†ó @   à“?   `H¡@    Oú @6œ@‡€˜<ˆö@÷Ä<#@/ÜÙ<jF	@¼3=°\	@[.9=»Ç@ã>š¢@¤b>€á@é9‹>æn$@Yñ>“a1@Ç-?0´J@é9‹?AU@ü« ?âU@~u¢?©V@m¤?“ÃW@¦_¦?ş`@I›¹?€Pe@š Â?QĞj@¶Î?cûo@‰ìØ?5y@Òí?½…{@Ãñ?:|@ÄHò?›©€@)Cı?C
+…@xÒ@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef86d38 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.092818737030029
+.max =  4.324638366699219
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .007978274486959
+.max =  2.49985933303833
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       À¾ @   àéV€?    nL@   @¶ÿ@¾ğ@O·<½U@#e£<Æø@áiÔ<Æø@áiÔ<¯	@q×(=ôY@Šz=Ä@–æ{>C›@·’>í])@şÅõ>ÍÆ2@ıÜ!?N,M@ ¼‹?ÍÕO@ó‘?7Z@˜«?Z¶[@ö3®?x´h@íÎ?ÖÃl@v(Ø?Sn@çÛ?åyo@X÷Ş?õt@vÖì?À¨u@øŸî?„z@ºû?¦G~@*`@ã @ĞO@pcŠ@²ı@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef875f8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.074734926223755
+.max =  4.203878402709961
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0265942495316267
+.max =  2.225938558578491
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        ™ @   à…;›?   €ÅĞ@   à¸Î@uÈ@/ÜÙ<Kè@ĞYA=ï@}N_=U¯@¤b=Tà@3j=N~	@‡€˜=/º@d>w°@À†>Iß@6×¸>u$;@gIF?Ö>@áiT?–:T@P–˜?Ü;V@0?S ^@ä ®?=`@èd³?úb@¤«¸?ªİb@íY¹? µi@É?üm@ÁĞ?v@Üå?ıBy@.Yí?té@`-ı?}ã@:@,††@Çu@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef88bd8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.816515564918518
+.max =  4.077492237091064
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0006648562266491
+.max =  2.162112474441528
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        rı?   à7ÉE?    ZO@    L@•ƒè?¿I.:ÿ1ÿ?¿I.<}œ	@)=d@ÜĞw=÷g@S¦¯=8@ĞYÁ=ø&@¶ìL>Sã9@“÷Î>½Q?@µõ>-åT@œ°Y?Ÿùd@›?¹e@ù?Æ¥h@&ø¦?™Qo@_ò½?j¼p@ˆÃ?Lês@ ÌÎ?Œt@.Ñ?èt@–ŠÒ?.w@0Û?×{@Ğµê?†<~@»÷?=š~@8Cù?˜ı@‚4@Ñz‚@`
+@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef88ae8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.019361734390259
+.max =  4.44853687286377
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .007978274486959
+.max =  1.998557806015015
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        §' @   àéV€?   @MË@   Àúÿ?9=@O·<üæ@¿I.<ÈG@U=Ñ<@ĞYÁ=Æ´!@À>Ë)(@0±1>.œ.@7dc>-/@¨Ëf>hp>@‚ç»>£PD@1>Ü>®~Y@V93?N¹j@nüw?=p@°íˆ?Oy@ç…?Ef}@p¦§?K^@üYµ?ˆÖ@ÇÑ·?íâ@#¸?¾O„@eÅ?s„@ùtÆ?Äh…@4#Ë?iæˆ@X÷Ş?…y@p^ú?jZ@¾Ğÿ?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef88c28 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.059902191162109
+.max =  4.383855819702148
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0264602284878492
+.max =  2.625442981719971
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        ®z @   àc›?   €‰@   @è @pÕ@ÃØ<p#@öÍä<ÆÚ@€‡=ı@6Š=@
+@ˆt=Ş@Û˜=?@ı!>“5"@p’>Åx.@ëjá>e3@ae?¼×P@ƒõ~?Ø†g@×V¹?‰©h@¢q¼?¡Tl@ÈšÆ?KGq@fŸÔ?PĞr@aÙ?A‡s@>Û?çÓw@—¸ç?åx@Eyè?ßx@cÓê?‚@&•@G„@èú@ñ‡@,~@ŒHŒ@B(@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef892b8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.9648756980896
+.max =  4.281015872955322
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0154351331293583
+.max =  2.349815607070923
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       €!pÿ?   €tœ?    Â@    lÌ@û?¤ã|<Bç@‚=¶@¨:=ò-@ïày=w@Ş\õ=pË@Ä>I@×'>$#@{DZ>Á¬-@sWï>ö2@?eU@õŠ?u"[@à)™?Ì\\@€œ?z§b@8R«?8ce@R²?9tj@Öã¾?ùm@ÄyÅ?8Äq@ñäÑ?nœs@YÉÖ?nœs@YÉÖ?Ğö|@70ğ?Fß€@=Œı?0¶†@G@şˆ@ac@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef88e08 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.984171867370605
+.max =  4.130473136901855
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0029400254134089
+.max =  2.271904706954956
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        +¿ÿ?    ®h?   Àš…@   `Ü,@Xùı?q­@;bL@9Şö<Fi@¤ãü<ïµ	@‚=Oë
+@•¥= Ö@ÕÅÛ=*@ıQ>N¦@lâ>ƒJ2@Iô?2°4@íŒ?aUS@Ä’?T%Z@G›£?Ë$c@¨º?òTe@1eÀ?h@æôÈ?…Ms@<7æ?4 u@ÏKë?zİu@¬]í?Ä*v@o6î?-ìz@Œªû?†^€@Ï4@©€@’@¦ƒ@í@Ö,„@ãf@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef88408 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.006740093231201
+.max =  4.159268379211426
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0183751583099365
+.max =  2.570317506790161
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       ÀÍ @    ğĞ’?   @£@    @nn @€‡–<¢~@>w=‘@‚=oì@¨:=ìÕ@¼ª½=»<@_>-	@&>m,@­Ğç>Ú“Y@¦=¦?œüa@,¿?–9e@%É?+!f@œ÷Ë?»¡q@%9ñ?¹Çr@õ?)İr@ß\õ?²5v@_ @\y@yÔ@ºp}@ó@æ<„@)A!@ÔÒ„@&w#@º…@€$@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef89448 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.953155279159546
+.max =  4.045559406280518
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0007350063533522
+.max =  2.448306322097778
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       À@ÿ?    ®H?    §.@    !–@ş ú?q­@:• @€‡–<´V
+@Ë„“=X‹@«&¹=Í8@bÓê=T@²¾>#ƒ@P¥7>_"@/®>ÜX'@b~Ó>ŸG<@ª@D?a‡S@L/Ÿ?#+^@ƒ¾?ÈYj@÷Íä?uwj@N.å?k@ ç?Vµk@ò9é?^l@åcë?İÃn@Kó?J@r@‚õş?Nr@®%ÿ?«s@êà@º?t@Îİ@»°t@{@9u@±@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef889f8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.018362045288086
+.max =  4.293152332305908
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0147001268342137
+.max =  2.349815368652344
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        ›% @    ?    0,@    lÌ@Ø,@ÍØp<nX@İ²Æ<Q‹@š¢4==‘	@'°Ã=Ğ@9Şö=ö@©|
+>¹@@B˜…>­C!@î6Ë>K'&@÷î>‰?@e[?ñ2M@À”Š?¥`@ZZ´?q…d@jk¾?ãÎr@9‰ß?8u@âµä?:zv@1è?á%{@Kó? ×|@¦V÷?gõ~@9kü?5±‚@™ø@ÃF„@Ô	@ZŸ…@	@Š†@â@a‰@`c@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef894e8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.024637460708618
+.max =  4.100253582000732
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .021963719278574
+.max =  2.572892904281616
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        u2 @   @¨}–?   à¨f@   àH•@©“@Bí³<ø¯@NZº<Èñ@l»=!@ºÃ‹=h	@Bí³=@9sR>ÿ­@øÊu>P/@\‘Œ>á)@ÄÄ?W1@p.?²`J@˜M•?«C`@9sÒ?Åüf@•Tæ?‡g@²¡æ?k@s”ò?³Jm@Ohù?RÌn@°ş?vfq@@¸t@>3@œy{@³ä@}’|@…¦@Å×@øë@|ß‚@‰#@G5ƒ@Gª$@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef89b78 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.008040428161621
+.max =  4.435662269592285
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0164727903902531
+.max =  2.875678539276123
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       €w @   @>Ş?   @¾@   Àc@¼ƒ @òñ†<ÍB@Ì=–µ@ßıC=øÂ@òñ†=>›@—=:À@7€­=ı-@æ­Y>+Ğ@¢™>ş11@mB#?¹‡?@?·b?”ÄR@ØŸ?œ†]@À»?^@ÁD¾?€Ëc@–9Ì?g@‘Ö?0ğk@"jâ?ÆAn@-×è?Œp@_Üí?Ê!q@|ßğ?¾r@}•ó?‘ s@Áæ÷?ƒ@&Ï@û
+„@¸@òğ@8@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef89768 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.049431562423706
+.max =  4.063230991363525
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0251013934612274
+.max =  2.190096616744995
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       `<e @    .´™?    ¿@@   `Q…@ã)@p¡Í<‘1@w(
+=²Y@‡{Z=7{@l»ƒ=…¹@šo=à@ ¦ =Ñu@ˆR>k¢@;=>1ü.@¢?>ø/@Ê?ÄM@–á?Q‘b@âÁ?¢e@o5È?Lm@¥~İ?„Ïn@+µà?Pt@/Cî?—y@!…ü?Zâ{@ˆR@wì~@¯V@P0@¦°@e˜€@ÍY@ƒ°€@š@qÍ€@,ç@ı‚@‹*@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef89d58 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.916482925415039
+.max =  4.219820022583008
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0054909298196435
+.max =  2.643490791320801
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        ê©ş?   @¨}v?   €á@   €Ş%@POõ?Bí³;¨_ @d4Ç<Ã±@ö×P=hÌ	@šo=vk@µ/ô=@2Ã<>.à@II>çŸ@Ê\>ûƒ!@WÔ›>(r/@8ü>âEQ@ô]Œ?ĞL_@& ³?]*a@Ü%¹?™g@$Ë?DÈi@÷Ó?nXm@€æŞ?vTo@‹Så?gHp@]pè?ÅZr@9Dï?ÄSu@ç4ù?E½€@öÉ@¬Õ@CÁ@Ü…@!·$@Ä‡@ô.)@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef799f8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.958435416221619
+.max =  4.28296422958374
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.584659337997437
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       `ÀUÿ?           `Á!@   àa­@®ú?    Òş@YÇ@<QK@ı^<z¢@ı^=(n@ ¦ =å@‰nÿ=!
+@Kn>L_ @ê\‹>Lƒ1@ğ…?/æ<@„0?»JU@^ı‘?,ñX@;‡›?Àa@¾l³?ùd@v¼?8©h@ı Ç?§ñi@¸Ê?7Aj@]ŸË?½w@¶/ô?Zõy@Fû?å
+}@Fm@
+„}@.@@ò–@û @‹Ï
+@‰@k%@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef79778 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.99959397315979
+.max =  4.23649787902832
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.059883117675781
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       @Vşÿ?           €,ò@    ¤z @²òÿ?    {†@æ„ =lZ@p¡M=O‡@—=”ü@½¶0>"±@¬Œ9>×y@kä\>÷Â@l»ƒ>Õı@û”Á>ã,@7ù?ƒ*L@?cÎP@ÄŠ?(b@ôä«?o·q@Œ8Ë?Xt@ÚŠĞ?ä„v@ÒõÔ?øy@ıÛ?Îz@²İ?‡}@º6â?‡}@º6â?xt}@ã?‚Ó~@Äíå?<D@Õæ?d‘‡@ Õ@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef79638 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.032294034957886
+.max =  4.202704906463623
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0157790966331959
+.max =  3.105990648269653
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       `#B @   @e(?   à‘Ï@    Ù@@*C<ïg@5L=Î­@«MV=ƒ×@ÒĞï=Îû@¤7ó=Ä`@æg[>¨µ@IÀ>=^&@*C?†.@˜(?o%N@Ó{­?6S@Ëm½?FyT@åwÁ?ï'V@ÃãÆ?mXX@Î?[@òğÖ?Ì"`@óç?Iû`@ÍÑê?ód@mø?eLf@uı?*s@'4@_˜t@ı@CZ~@
+Y*@|†@ÈF@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7a088 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.963457703590393
+.max =  4.247101306915283
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0523201636970043
+.max =  2.782104015350342
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        Rjÿ?   `µÉª?    ı@   À¿A@•Rû?«MV=ş9@_—=nz@™a¨=Å-@‚ÿ=;@9¤=>@êòL>—ó@1Z>¬p@Ğğ»>I¯7@š9?œf9@A?”ZM@ %?m´_@t¾Â?lõ_@ñ|Ã?†èi@B’á?\ÿj@ùä?»m@Kë?ÏVx@,@ÉF|@rŞ@aS}@­@p3@]@v$‚@”æ@“æ†@íG.@ÿZ‡@Uû/@Aè‡@ş2@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef79a48 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.997535347938538
+.max =  4.34039306640625
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0523201636970043
+.max =  2.821136474609375
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        çõÿ?   `µÉª?    \@    °‘@=¯ÿ?«MV=¨Ú@ü©„=™n@™a¨=rª@kÈ«=X•@²c¹=üE@nS>Rµ@Ï ¢>sw@0®¦>ıÅ@@ÄZ?ÿzD@¸Æk?cY@Óª?#OZ@ŒØ¬?‚'_@0"º?Y d@R*È?İ.g@ıĞ?Êòg@|8Ó?¶—r@£7ó?{v@—*ş?`v€@@„@‚@¹ı@›ƒ@‡á@Ü†@UA&@Ê¢‡@E÷(@€äŠ@€4@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef79ae8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.962679743766785
+.max =  4.171233177185059
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0240838844329119
+.max =  2.679955005645752
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       à"gÿ?    r©˜?   ÀW¯@   @Œp@9û?‘KÅ<&o@ÅOg=¤@°¸{=Òl@­ø“=2Â@&¸>Ç@¢W?>®½@^G£>>Ò@ÔkÇ>,´.@×?Ò¾8@ÇâK?WÙM@«š?ÍĞP@¤¢?rW@Ô÷³?Ğ†Z@8¤½?]æ\@İqÄ?°Q_@íuË?“i@æ_è?j@uë?×ám@ó\÷?†Ew@P
+@Ì!|@±{@O¤~@¡@7;„@@6'@¾z…@b„+@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7a3f8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.966920733451843
+.max =  4.32689094543457
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0323886722326279
+.max =  2.60936427116394
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       àxÿ?   €?• ?   €¼N@   `úß@Äû?ü©={¾@!‚`=GÅ@°¸{=LÄ@±ƒ>·@*>ôŠ@\œe>Ûy@“ö‚>‡¤@<?•>ºµ/@PÎ?ß0@HÈ?kòR@±{’?\@©é¨?O–^@à€¯?uRf@•ÎÃ?¿£f@I¨Ä?*µg@‡Ç?„p@£Ãß?mqx@hö?÷{@Ú[ @Ñ@ û@í$€@?Ê@¿³„@+·@åu‡@	a@äuŠ@Óÿ&@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef79228 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.010344505310059
+.max =  4.29062032699585
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0099657457321882
+.max =  2.291290998458862
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       €/ @   Àëh„?   `˜)@   `T@|© @^G#<[»@¬•<!¢@wI4=~Ì@QÆš=+J	@»=ä•@“ö>±@áüµ> @V1À>Çx'@çWõ>4/7@ºi6?şúP@Ê	?ÍQ@ %?Æ1u@}0à?Æ1u@}0à?Ãqv@>ã?[S{@ÕSî?æë{@›µï? ’~@÷ßõ?Ä±@G’ @ËT„@?Ê@«…@z¦@>B‡@µÀ@ô‘‡@3@ÃL‰@ƒ¤@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7ad08 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.046992778778076
+.max =  4.336144924163818
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0060390080325305
+.max =  2.587283611297607
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       À=` @   à[¼x?   `6X@   ÀÁ²@î@ßâÅ;î@ßâÅ;¥Ÿ@—[÷<€ˆ@¥Œ"=Ö›
+@#¯°=yı@2¡>'³@Šc`>=@µt>î!(@2¡?x5@³c<?û§T@»Ü¥?„Z@9ÿ³?èß\@;½¹?+Fb@‘ıÆ?µÖj@“MÜ?E±m@{ã?±Çm@¡³ã?œn@¿Ìå?W*@@­£@.u@@0‚@®ä@Û`‚@åc@×Ì†@R
+@³ÁŠ@–%@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7b578 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.944796442985535
+.max =  4.188104152679443
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0155288781970739
+.max =  3.180831909179688
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       àâÿ?   ÀšÍ?   `À@    Xr	@ïø?Öl~<(âÿ?ªG=Hu@Ÿ=Å…@@ZÂ=SÄ@IĞ	>´@ ˆ>èı@;>n/@L>mÿ,@Çò?k 1@ ñ*?Ñ~W@jÆ?íÑW@6Ç?¥Ë]@ÄøÛ?}û]@b¢Ü?Ürd@‚ô?Æf@ªû?s–f@éşû?f@.ü?ü"i@-Í@'?k@Õ@ï_q@?Ğ@s¤‚@ø<@/ƒ@zÎ@@ó†@À’K@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7b118 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.033145904541016
+.max =  4.176090240478516
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0509002096951008
+.max =  2.762414932250977
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        âC @    —ª?    Q´@    m@@½|P=“c@œ[=å¬@¶?=èŞ@aÀ·=V•@—[÷=gĞ@t4Z>O9@Ín£>F5@»¾Ê>‘O+@Y†&?›N5@#‘U?0ÇT@ñ¼?äX@$ÿÅ?ì&_@¹PÚ?˜Í_@N1Ü?#i@R?÷?{ïj@áü?ak@L4ş?œKm@(ù@Òo@tÈ@Kq@æš@½§y@<Û@Áƒ@*@BX…@Û/@ˆ¢…@hË0@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7aa88 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.061175584793091
+.max =  4.076119899749756
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0379594787955284
+.max =  2.459601879119873
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        I} @   Àlo£?   `òM@   ÀC­@Mê@f{=şa@#¯0=ŞÃ@@ZB=9à@/§Ç=s§
+@—[÷=À@îÔ>¢Ú@Ğğr>“k@şŠµ>'@ş¨?•f+@õP$?w£R@æ±?¼ƒ\@'½Ë?Õfe@{ã?R‘g@_Ué?2¦g@éé?¨pi@Äiî?ÚÂl@Üw÷?õĞn@›ı?¬æo@p
+ @óğo@“ @€p@Ø4 @)à~@^é@&$€@8æ@“o‚@j@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7b618 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.135776996612549
+.max =  4.01707124710083
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .071605384349823
+.max =  2.346585988998413
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       @@    »T²?    {@   àÎÅ@’°@Ø¥’=ÏÊ@'j”=óä@w.–=´Œ@ºú >9@×¥>”u@4b+>œ„@g<C>@Çò—>1P,@?Ñ3@‘"?¶KY@ÁX±?›wZ@Ö¨´?Fq]@–)½?èÒe@­ÉÕ?Dƒg@ŞÚ?)’h@âŞ?kj@¡³ã?[l@Käè?v2p@H—õ?Åóq@Áû?*¡v@‘@í0y@«&	@šğ}@«ï@Ù‹€@w.@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7a588 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.014305591583252
+.max =  4.037707328796387
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0181170254945755
+.max =  2.136946201324463
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       @L @    E’?   Àœ&@   @w@bê @(j”<”@ Ñ>=†@—[w=Œ™@”Ù§=	@Àv>®B@I;>K@®Š}>k+ @öÌ>yÂ#@¶ç>ÿ¬/@T"?|N@Â’?%eQ@pDš?“hX@€ª?:ìd@ˆ4È?éïh@?ìÑ?Ucj@ŞtÕ?IÜm@õİ?Ğ‡q@¶ç?âkr@9é?ÒÊu@”ñ?õ™w@ $ö?|@ŠO@Ìx€@%ã@æ4@ºÃ@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7af38 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.045090913772583
+.max =  3.626940488815308
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0142295444384217
+.max =  1.71798038482666
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        X\ @    a$?   `ù@    Ù|û?Åâ@	#i<ÿÛ@ş¼²<y¦@	#é<™å
+@n‚º=a<@İGÂ=€@!®V>€@!®V>¬è@æµ‘>pÓ@%e¾>ñ#@çïŞ>®8@ZH?&ID@©z?Ì²J@Ig?ÊøK@~’?y@R@ˆX¢?S@ùh¤?Ò“U@zØª?ÿ9W@r¯?Šm^@œêÁ?…^@Ç(Â?ÃÚ`@ZÈ?«Ød@•	Ó?oIf@LìÖ?Ëh@ÈæÛ?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7b028 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.031057834625244
+.max =  3.951986312866211
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0132809085771441
+.max =  2.389614820480347
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       @›? @   `3‹?    «@   `î@Úü@+˜Y<Úü@+˜Y<­‚@Òá‹<
+@İGB=İ³@âz]=…O@µ#>Ÿ/@¿†>¼Q@™á­>æ›'@AÈ?÷q7@”Q?n@S@*û²?ï[V@]Ø»?Ûc[@jÊ?Ûc[@jÊ?Z•]@ÚĞ?ƒéd@Vµæ?yÁe@Bé?U	f@·ê?]l@µ¯ü?04o@µ#@Ä†p@'4@]Yt@Û6@ª|@§‚@Xí|@sï@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7bf28 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.987132906913757
+.max =  4.285483360290527
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0388940870761871
+.max =  2.900929927825928
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       àKËÿ?    íé£?   ÀU$@   À5@_Zş?hO=óÿ?ş¼2=y@0Ët=²â@«9€=¹ï@˜>£w@ÙZ>Hï@tš>ñ(@3©>şB0@Š£?gñ2@…(?O@½¡˜?pZ@8Z·?×Õ]@İGÂ?Ó¶_@ÅİÇ?ï\`@!ÏÉ?:ìf@#Øİ?Ûm@ºEñ?Ê1q@¡ş?SŠv@»-@çŒw@ìà	@´éy@¹â@-³„@Ô4)@áù…@™á-@®"‰@Ö¨9@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7c6f8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.997723937034607
+.max =  4.088545322418213
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0142295444384217
+.max =  2.558472156524658
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       `­öÿ?    a$?    «Z@   @Àw@kµÿ?	#i<ñ¢@»ÒÑ<Hc@%e>= ÿ@.Ó=w½	@99Ä=”@õÒ/>M°@ïŸ”>O³@é›>1É1@'-?¹2@œ.?§T@V¯?­æZ@ZÁ?‡É\@-Ç?ã]@ßqÉ?˜ôd@.ß?®4h@óé?¯ğn@yÇı?5št@zĞ@I6u@(É@³ğw@7(@o1€@Zğ@,s€@òÉ@§‚@•"#@]Õ‚@¾#@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7bed8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.028422117233276
+.max =  4.157152652740479
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0151781802996993
+.max =  2.533807516098022
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       `5: @   à¼?    ì @   à<E@«Ñ@ç­x<Y¦@İGÂ<Z@¶Ÿ¶=æg@%e¾=ÕD	@sµÕ=×v@*&> G@K‘–>çÎ&@cû?£0@ ğ<?YÙ8@!c?ö©[@ÛüÇ? ^@4£Ï?0˜b@lõÙ?¯ d@9÷İ?¯ d@9÷İ?Pöd@À&à?¾Şx@n›
+@.y@Ê
+@thy@ñU@ÙJ€@G@Ú‚@¬÷@­B‚@ƒ@HN„@) @e…@ç)"@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7cba8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.978584170341492
+.max =  4.052854061126709
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.18376088142395
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       àG¨ÿ?           `6@    Wx@?Bı?    Î1 @n‚º;lå@ş¼²<ˆ»@.Ó=›¿	@Ä@¡=­2@H >t"@/OÁ>%@Å¼Ô>›&@•èß>${9@r÷;?ªK>@ÚP?æäT@¶áœ?Òéc@†Â?t›e@åÆ?zf@ğÈ?h!h@­sÍ?!¼h@ÇÏ?Qi@`áÏ?_k@óÕ? ‘r@	#é?ös@˜ê?Ày@µ¯ü?­z@}<ÿ?û°@½Â@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7cb08 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.032447099685669
+.max =  4.16478157043457
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.763864994049072
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        sB @           €¼¨@   @e@@    @    @    ó1@Ÿ•=m@øª!=Íè@¼5Ö=åÎ@qpl>ª@sxo>{ê)@““ ?Ä~3@¨I-?cÓQ@û¨?aÁW@Yª¹?1×^@cCÏ?Ç_@+Ò?ûµ`@»Õ?”d@nß?”d@nß?êÎd@Áôá?9h@qpì?ƒÿh@Xï?Op@”›@³{@HÎ@ı@O4%@äE…@*ã0@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7c888 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.017942667007446
+.max =  4.137032985687256
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.742156505584717
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        ¿$ @           `RŒ@   Àïï@ù%@    ×¤@t€ò<»Ô@“U=X@	F=Wñ	@°õ½=v@F€>oN@½=Y>¶@sxo>z>2@
+G?x/5@gvV?gjY@¸@Î?¸Y@#Ï?*H]@h~Ù?ôâ]@CÛ?´Õ^@j
+Ş?Gòb@p*ê?Ï(c@Ìê?:Ìc@±ì?j@zbÿ?|/r@î@Mr@n£@Åÿu@pñ@R³}@ ñ@“b„@~/@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7c3d8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.084495306015015
+.max =  4.170374870300293
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0335492342710495
+.max =  2.667164325714111
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       à­ @   €]-¡?   Àv®@   @ZV@_h@ìj	=Öµ@òŠ=S@n`f=ë'@z ~=\
+@¨Å«=€
+@N°#>I1@] B>ä§@g8W>z @d(Ñ>?Ï0@ªÕ1?YPR@şŒ®? [@QÈ?#xa@½ÜØ?Ûáb@jçÜ?qòj@Eô?É§m@#:ü?pÚn@zÃÿ?_ån@Ïãÿ?qÇs@5@0$|@qÖ@RØ|@Gé@ìŸ€@«@Ë&ƒ@Î#@¶s…@Ò²*@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7bc08 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.067524433135986
+.max =  4.310903549194336
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0246685557067394
+.max =  2.795440673828125
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       @JŠ @   À¶B™?   €]>@    ]@RR@¶Ê<ÎM@“U=½÷@òŠ=-Ú	@™u=ê
+@øª¡=õ¢@³Ä=Æ@K >Ü¹@g8W>§8*@#û>[
+1@ŸW?_a@µÏÇ?~rd@§Ğ?ƒíe@fòÔ?ú,h@¾ƒÛ?›h@ÇÜ?&l@ÄBç?²um@-ë?¢åq@vø?¤:r@"“ù?~Iw@@|@˜ñ@Ãq‡@Q‚*@±.ˆ@Òø,@ìò‰@€è2@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7d008 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.92711079120636
+.max =  4.397303581237793
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.989829063415527
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        rÕş?           ÀÖ–@   €+ë@‘«ö?    ıÙ@+R=Z@ÂUb=ôÈ@$›ü=±Œ@ëb>š¦@L>B@›}>¸S@SÈ¬>£â7@[ø>?éî8@ÅC?ÁÛT@û¨?¤¤]@\|À?¢g@¤Û?ñ‹i@Âã?õ´m@È˜ï?ğöq@#›ü?îr@ÎÛü?ßt@ih@ÒÑt@>¹@]w@À³@Äƒ@!³@˜Êƒ@÷è @^N…@Oö%@¶¶Œ@\Y?@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef7d8c8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.114948034286499
+.max =  4.245686054229736
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  2.22707724571228
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       àië @            •û@   àÑ@O[@    T@¥µ%=Ú¨@+R=I¤	@¥µ¥=®Ç	@şÊ­=ã@wø=ßº@sm>@
+Æ>İò$@O4%?z /@iQ?u«I@¡ã?»\@Ã?Ôïf@f´Õ?$öh@^Ù?f|k@êİ?şXv@=ñ?Zw@Éó?N¥x@ÊGõ?û„z@vø?X¸~@Ïãÿ?…@½£ @–.@>@µ…@ÂŞ
+@©Ü‡@oˆ@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef80bb8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min = (.)
+.max = (.)
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min = (.)
+.max = (.)
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite        şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                          à      à      à      à
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K4ef813d8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.076741933822632
+.max =  3.481682777404785
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0694307684898376
+.max =  1.243582248687744
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       à* @    7Æ±?   €|Ú@   €¶åó?Wé@¸1=
+	@/Æ=–¥@€¬—=4@¢ª=3	@ß¦È=ÇE
+@sØ=«ƒ@_
+i>îL@±ğp>êÃ"@iÑ«>0T*@Û¢Ù>½Œ<@ø,?–E@@$<:?P+E@Ò–M?K×G@‚sX?éÊJ@²d?*tM@çóo?ƒ£M@"¾p?j%N@Eêr?R?O@©§w?×œP@f”}??\@˜?§h]@8Ò›?\i^@ê0?äÓ^@´-Ÿ?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K36180cb8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.000570297241211
+.max =  3.491956233978271
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0044949832372367
+.max =  1.382956385612488
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        + @   àTir?   À†ï@   à– ö?X	 @§J“;6t@×+<ë¯	@§{…=g
+@Ä‹=q@3gÛ=Kk@Ä>>@Â5>—Ñ@ N>Xê @m¢¢>Å.@•_?q@3@‡?å®8@ÍC+?©ôD@ëÅ`?=ÄG@nŸm?PJ@ùx?*ÇJ@‡Ÿ{?†rL@A¾?ï±P@hè‹?ÚP@šJŒ?¹Q@¬f?-S@øò‘?µR\@Ş¨?¦]@‚°ª?6|_@·±?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K36180f38 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.033476829528809
+.max =  3.511566877365112
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0064111142419279
+.max =  1.17964494228363
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       €D @   `ŠBz?   `°@   `Óßò?|$@SÒ;x@:<±÷@B¨<Åu	@øm=Åu	@øm=çí@šş>ê…@=>"î@“~>±Â(@IÚ>Ü†.@³`ÿ>11@1c?ñ/3@Ôó?@@ :?Ş.C@óD?€E@¯ƒK?óšE@ÜQM?Æ\F@òO?¿ÕF@E–Q?¶0I@ËY?ÏvP@Šes?ùP@·3u?)‘T@z ?EW@ò×…?ƒ½`@›ş–?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K36181168 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.132688045501709
+.max =  3.471305370330811
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  1.241951465606689
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       À¾@           À;Å@   €ßó?ö}@    óª@÷Ä;	@Šz<5ƒ	@}Nß<ÿs
+@÷D=ìñ@ÌÆ= M@’"w>ä}@Åoµ>y'@š–?ô™,@aø?¹¼-@?‰;@×°I?W¨<@¸NO?ßf@@\?ÂA@4Ñ_?¢àC@Ñg?æKJ@*C}?·±M@u?„?VŞO@xÒ‡?¹RQ@z4Š?m.W@ƒ¼“?æ[@­š?*Æ[@å#›?Ş)^@Dø?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K36180678 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.130519151687622
+.max =  3.842714786529541
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  1.648619413375854
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        M@           @á½@   À¾`ú?mZ@    mZ@    mZ@    E)@š¢4=TŠ@H¸L=ß@‚=Á:@([>9ï@•‚> H&@µê>j!,@®?,..@Ë„?­Ä>@7NS?|„I@Oƒ|?J8O@z+‰?FŒP@Äµ‹?`bQ@4O?§ËS@[ë‘?±cW@‰É˜? ãZ@wŸ?¾\@•¹¡?ˆ@]@û£?0ab@lÄ­?&ñh@°Gº?
+ïu@öÓ?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K3617ffe8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.034189939498901
+.max =  3.654406070709229
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  1.772001624107361
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       `F @           @9<@   `Zü?+0@    +0@    àE@µ/ô< @±I*=PR@n®¨=ú@áÇ> ‡@ú†‚>Xş@Bí³>ö%@8ì>J­5@X[;?€å6@Âú@?\9@¼ÑJ?Â<@GY?r1>@xQc?+¹B@ç4y?k(F@“	…?îØF@Š¾†?¥DJ@]G?RkL@_³”?f[N@Ü™?S˜P@úWŸ?ì6V@ç­?Qd@÷Ó?Êái@óĞâ?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K36180768 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.060943126678467
+.max =  3.535376310348511
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0008304787916131
+.max =  1.480743646621704
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       ÀÏ| @    6K?   `sH@   @ ±÷?~æ@}´Y:…Ë@*=ú]@5L=Á)@°¸{=¬@	+=7Y	@õ“¡=‚õ@ß‚>ö@jØ‘>@g @u®Ü>õ|,@jĞ?ã¿1@
+4?5N7@9œJ?ÂäE@Êƒ?
+OF@~ëƒ?¿G@›x†?xÑJ@	+?„ÚK@LK?CL@ğœ?ØóQ@rÖ›?f’R@?¦}V@31¥?™”Y@ı‘«?Àc_@•·?›Cb@‰½?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K361810c8 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.04264760017395
+.max =  3.638939619064331
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0189797393977642
+.max =  1.492497801780701
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                        WW @   Àlo“?   `Œ@   `Eá÷?½º@f{›<«.@ßâÅ<+]@ôL=Èd@·™=XT@ü5>–u@aÀ7>34@•šO>@ËqÅ>”Å @­ÉÕ>.^)@]A
+?=ß:@â K?ò);@”»L?œƒ@@)a?wC@¥Pl?ièD@Öq?ÿ¶E@ªít?ëgF@!”w?z\H@t?İËI@÷M‚?Å_L@F‡?&âP@`ÿ?ExW@¢Îœ?Ê…c@Lp´?cäh@+
+¿?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K36181118 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.013508796691895
+.max =  3.508804798126221
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  .0341509059071541
+.max =  1.564301252365112
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       €ª @   @:|¡?   @@   À`ù?Tİ @Òá=şC@n‚º=ğt@†‰Û=ãP@ÿ>i
+@*&>Z@Éµ¢>ØÕ@VÀ>İD@â¼Ã><Ç&@P?{.@4å5?&Å0@/OA?K1@¶~C?c÷:@>Kl?xp>@š{?4D@vğ‰?Ç_D@¸MŠ?¿7E@şŒ?hˆI@ˆy•?¶L@_eœ?AıL@Ë ? ÒN@™¡?«A\@Q£¾?m]@VÀ?B`@;È?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K36182428 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_pred"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  2.046171903610229
+.max =  3.403586864471436
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  1.745025038719177
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       şşdelay_pred predict                                                                                                                                    density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       `^ @           À‹:@   `Ÿëû?{ô@    JŒ@)Â»<Ùª@ıJÄ<¡@Ü=Üw
+@b€=–ş@|>Ûõ@à)b>.â@ö¯š>$@7ğ>²$@Rñ>Kü1@äA?àÓ3@BKL?C@§“?l D@=—?6D@„Z—?jrJ@3[«?>ïM@Ó¶?¹¼N@Ñ}¹?BP@¾?~P@â[¿?ÆóV@£\Õ?§X@£:Ù?›ÊY@×:ß?^ÔY@û\ß?
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> serset K36181398 
+<BeginSerset>
+<BeginSeries>
+.name = `"delay_mean_hour_predicted"'
+.label = `"Fitted values"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  1.938027143478394
+.max =  4.523938179016113
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"density_norm"'
+.label = `"(mean) density_norm"'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  0
+.max =  3.180831909179688
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+.sortorder = "density_norm"
+<BeginSersetData>
+sersetreadwrite    l  şşdelay_mean_hour_predicted                                                                                                                             density_norm                                                                                                                                          %9.0g                                                    %9.0g                                                       À(ÿ?           @ƒ@    Xr	@Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    Fø?    ÄÂù?¿I.:´Şù?q­@:(ú?}´Y:síú?U;Ê:õhû?+â;Wü?q­@;¯^ü?@ÓB;¢ı?§J“;¢ı?§J“;:Áı?‡€˜;ş?˜‰§;vNş?ëó°;_ş?Bí³;¢ƒş?n‚º;Ô·ş?÷Ä;œÁş?ßâÅ;œÁş?ßâÅ;ÿ?SÒ;4;ÿ?ûïÜ;7oÿ?[ç;7oÿ?[ç;f°ÿ?¶ô;æ @O·<æ @O·<÷ @6<`P @:<Z @6$<uw @’<uw @’<uw @’<— @$³"<%š @^G#<Á @5P$<õ¿ @×+<£Ê @¿I.<£Ê @¿I.<@YÇ@<Ö5@O“G<Ğd@…S<Ğd@…S<Ğd@…S<@+˜Y<@+˜Y<rŒ@ûï\<t¦@À‚c<}¼@	#i<}¼@	#i<]Ú@ÍØp<*ì@l|u<Xø@ç­x<iÿ@Šz<P@¤ã|<@Öl~<@ÒÍ€<ˆ@*C<Ã,@´Lƒ<ÌG@òñ†<@^@M Š<@^@M Š<úk@Òá‹<Ëv@ı^<ø}@À\<„“@¥Z‘< ™@p’<²Ÿ@9“<²Ÿ@:“<²Ÿ@:“<b¡@§J“<c©@(j”<S²@¬•<f¸@€‡–<f¸@€‡–<UÆ@‡€˜<@Û@f{›<QŞ@­ë›<¿é@><¬÷@àŸ<i@Ó¡<ì
+@µZ¢<@ÀÏ¢<@#e£<`.@˜‰§<ó1@B¨<ZC@¢ª<~K@×«<¼m@ëó°<›y@ş¼²<›y@ş¼²<|@Bí³<@Q¸<@Q¸<¼«@NZº<ç´@)Â»<ÔÀ@ —½<HÂ@ÿĞ½<ß@İGÂ<cß@ÌRÂ< ê@÷Ä<ì@ıJÄ<qò@‘KÅ<vó@stÅ<7ö@ßâÅ<fû@İ²Æ< ş@d4Ç<ü @O“Ç<ì@¶Ê<@í_Ë<|@9pË<O'@p¡Í<™A@»ÒÑ<2C@SÒ<©C@d'Ò<½Q@áiÔ<½Q@áiÔ<Œ`@ŞÌÖ<ü`@ßÖ<ü`@ßÖ<Õc@ÕT×<Õc@ÕT×<Õc@ÕT×<¬l@ÃØ<ºm@ÛîØ<ps@/ÜÙ<ps@/ÜÙ<Ó”@}Nß<‹­@N_ã<6¶@öÍä<eÀ@È}æ<OĞ@	#é<-÷@g¥ï<@t€ò<?@¶ô<@µ/ô<×!@9Şö<·$@—[÷<	9@-Ôú<Ò;@dNû<Ó=@3¦û<l@@cü<E@¤ãü< ]@æ„ =ê^@r¬ =ê^@s¬ =Œf@“U=Œf@“U=i@=!‚@l»=ˆŠ@>w=ÌŒ@ü©=;Ÿ@ªG=2£@Ú =š´@)=ÉÂ@ìj	="Ë@w(
+=KÔ@ù
+=KÔ@ù
+=Ş@Òá=&ï@ı^=Õö@_=@‚=@‚=F6@Ì=eI@òŠ=eI@òŠ=*T@€‡=rj@*”=Üt@6Š=Wu@Ÿ•=»u@Ü=éƒ@ıî=éƒ@ıî=‡@®9=Ò‰@f{=Û²@hO=•µ@à=•µ@à=Á@ ¦ =ñË@øª!=8Ó@µZ"=8Ó@µZ"=IÕ@¥Œ"=0Ö@n¢"=0Ö@n¢"=¡ö@¥µ%="	@#y'=O@B(=µ@ŠÅ(=p@q×(=_$@*=ƒ&@±I*=n(@Øx*=ØJ@ıÊ-=šh@#¯0=\k@ëó0=¢}@ş¼2=u…@#3=u…@#3=Í‡@¼3=n@wI4=ú@š¢4=ú@š¢4='•@Ã5=§–@‡15=—@Wà5=à£@6=\©@‰	7=½«@ÅE7=¿@[.9=Â@è|9=ŞÍ@¨:=ŞÍ@¨:=æ@J==Nó@%e>=ˆ÷@ Ñ>=ş@®x?=´@ĞYA='@] B=ë@İGB=X@ÌRB=¡@@ZB=Õ*@ßıC=¥+@÷D=?@	F=N@N“G=šV@VrH=¾g@3J=,s@í_K=6z@5L=6z@5L=?€@H¸L=„‚@ôL=Ã†@CdM=‰@p¡M=°¤@½|P=¨@ö×P=Ş´@+R=Ş´@+R=àÃ@P»S=wÜ@«MV=wÜ@«MV=wÜ@«MV=`ş@lŞY=a	@¦eZ=1	@‡{Z=í		@œ[=	@V•\=d	@ûï\=¦	@‰c]=‚ 	@âz]=±1	@}N_=~;	@ÓY`=ø<	@!‚`=6K	@¤b=N	@ÂUb=¶s	@n`f=Æt	@È}f=pv	@­«f=b|	@ÅOg=M	@[i=š’	@œ¶i=š’	@œ¶i=—	@3j=QÆ	@ÙVo=dÒ	@û¨p=Šê	@cOs=ø	@0Ët=<
+@—[w=_
+@ÜĞw=ù%
+@ïày=ë+
+@Šz=Ğ2
+@dN{=ä5
+@3¦{=Š6
+@°¸{=Š6
+@°¸{=Š6
+@°¸{=’P
+@z ~=’P
+@z ~=#]
+@b€=Ú`
+@«9€=¾v
+@ˆt=Ÿ
+@l»ƒ=â¢
+@àòƒ=3§
+@1„=}¯
+@ü©„=ã½
+@§{…=Å
+@kã…=ƒ×
+@òñ†=ré
+@Åø‡=5@üŠ=Á(@Ä‹=Á(@Ä‹=?+@ºÃ‹=mC@	+=oH@™u=¶N@.Ó=¶N@.Ó=S@‘=U@¸1=p@/Æ=êt@=wu@è=¿w@9=œy@U=D{@øm=D{@øm=›|@‚=›|@‚= @e˜’=ù @Ø¥’=¸¯@Ë„“=_·@­ø“=Û¾@'j”=æ¾@Íj”=!Û@	–=šÜ@w.–=ê@—=ê@—=–ğ@_—=Ÿõ@€¬—=¨û@Û˜=‹ş@
+5˜=x@‡€˜=†@Ÿ•™=³@·™=¯@š=R)@QÆš=r,@Šöš=JR@¶?=`U@šo=`U@šo=jW@>=ğg@ğ=m@^ß=eo@Ÿ=<t@iOŸ=1Š@ ¦ =@F¡=”@Ä@¡= ™@Ó¡=d™@õ“¡=Üš@øª¡=?¬@¿»¢=âÂ@à¤=DÇ@e¤=†Ú@•¥=•Ü@¥µ¥=ß@¬ä¥=%ÿ@”Ù§=²@™a¨=²@™a¨=†@n®¨=V@›z©=Õ+@¢ª=>@¨Å«=8>@kÈ«=¹A@¤ ¬=™Y@7€­=>^@şÊ­=öo@¦è®=³{@S¦¯=Œ@#¯°=6©@aˆ²=}¸@#³=™¸@û‚³=¼º@Í¥³=¿@Bí³=Qé@¶Ÿ¶=äú@aÀ·=óû@ÈÑ·=¥@«&¹=X@²c¹=ƒ$@³nº=´%@n‚º=´%@n‚º=°.@»= 0@ß.»=H@¦¼¼=mV@¼ª½=íZ@°õ½=a@%e¾=óv@4É¿=â@ĞYÁ=â@ĞYÁ=@İGÂ=*@@ZÂ=~²@'°Ã=’·@³Ä=¡º@99Ä=5Ä@ÉÚÄ=5Ä@ÉÚÄ=á@ÌÆ=ïã@eóÆ=Šî@/§Ç=˜ı@ß¦È=ä@3Ê=}&@í_Ë=q'@9pË=Ì¬@áiÔ=Ã¶@Õ=İ¿@sµÕ=;Ç@¼5Ö=è@sØ=Lò@ &Ù=.@3gÛ=!@†‰Û=@ÕÅÛ=(9@tŞ=èp@]àá=±q@Jîá=‚w@ÂUâ=o¢@TSå=Õğ@bÓê= ù@ië=]7@ÒĞï=ß=@=Gğ=
+[@ØZò=
+[@ÙZò= g@¤7ó=¯t@µ/ô=„@ŸRõ=…@Ş\õ=š@9Şö=ì @—[÷=ì @—[÷=²±@wø=sĞ@BÈú=©é@$›ü=X@‚ÿ=—@‰nÿ=D3@ºú >si@“ö>@n@µ#>ßs@ŸX>•{@2¡>Gƒ@´é>Á‡@ã>™@D·>®®@±ƒ>
+¿@À>¿Ã@gK>:Æ@ëb>Îã@|>ñ@ÿ>r @5>9"@IĞ	>24@©|
+>ÈB@Ë>^R@Ä>Æh@Àv>²l@ œ>9p@²¾>'„@_>G”@‘>À¾@&¸>]À@áÇ>Şİ@Œç>Şİ@Œç>Şİ@Œç>~í@F€>ô@{À>Oş@á$>2
+@j™>w@×¥>@Ä>î@ï>@@§J>@"@œ…>~"@ ˆ>Œ2@ù%>}D@ÏÖ>JI@&>PI@j>X@˜>F|@šş>³@˜ >–«@îÔ>XÏ@Ğ9>İ@µC>l@nS>\$@=>&@K >Fi@H >^j@-S >}@ı!>ñƒ@ñV!>ê¾@N°#>¥Á@=Ì#>¥Á@=Ì#>ZÔ@µ‹$>^û@*&>^û@*&>@1h'>]&@×'>Ó]@*>»x@y,+>å}@4b+>÷›@{›,><@³¨,>¬¥@Â ->¡ß@t_/>¡ê@õÒ/>K @½¶0>@0±1>d@ğó1>.i@Â5>É@ü5>¬§@P¥7>5ª@aÀ7>9Õ@¬Œ9>™ş@I;>³!@2Ã<>‰6@9¤=>¼Z@,?>À^@¢W?>Z@] B>Nº@g<C>²ñ@›E>œÿ@ì3F>¥@TJF>w@RâF>>@nãH>ÑN@II>Vˆ@L>2Š@±/L>0›@¶ìL>¿›@êòL>/Ê@¹øN>©Ø@•šO>â@9P>Vî@0P> @ıQ>¤@9sR>l@ĞV>›y@!®V>›y@!®V>Î…@g8W>Î…@g8W>[³@½=Y>5½@æ­Y>É@t4Z>mÊ@{DZ>äĞ@1Z> Ñ@ÙZ>RÛ@([>øã@æg[>†å@¨y[>âî@—ä[>Fó@Ê\>?@kä\>œ9@$=_>1S@Šc`>w@¤b>•z@à)b>Ä•@7dc>Ğ¤@d>ª@Od>ÂÆ@\œe>%Ú@É}f>Öà@¨Ëf>9ø@#Üg>¢@››h>@_
+i>òE@ik>=I@¬k>c\@qpl>dh@ˆıl>®j@om>cr@sm>šŠ@Kn>4‹@`—n>I@sxo>I@sxo>¸@û¨p>¾@±ğp>Wé@Ğğr>		@kit>f@µt>º&@øÊu>†C@’"w>W@Çx>.\@aIx>J©@–æ{>‰¶@†|>*Ì@®Š}>C×@“~>†@„\€>F+@Ñ>8@ˆR>UY@ß‚>¿j@ú†‚>#m@•‚>	}@“ö‚>–‰@;Cƒ>?@l»ƒ>Ó@Åƒ>ùê@B˜…>ş@¿†>Ò @À†>9@
+@†>î4@S`‡>iD@À‡>r@¯Úˆ>@Bì‰>z´@.xŠ>…Ó@é9‹>Ù@ê\‹>×Û@ém‹>hì@†Õ‹>d
+ @\‘Œ>"N @;>)Q @ N>½` @Q°>®v @Æ:>çƒ @L>÷„ @•>R© @{>¸© @›}>4³ @·¹> ¹ @lâ>£¼ @ˆõ>ä½ @|ı>îÚ @æµ‘>\à @jØ‘> ç @p’>X!@·’>¯1!@ĞŞ“>ßO!@ïŸ”>ºh!@<?•>Y!@K‘–>0Ô!@Çò—>Šş!@¢™>/7"@tš>i@"@ö¯š>Rm"@WÔ›>p"@é›>æp"@­ë›>Öq"@Êñ›>#’"@œÄœ>œ¸"@IÀ>­Ë"@;=>ŒÒ"@Jj>«á"@†Í>Pğ"@´-Ÿ>Š#@á >h#@X( >ı0#@× >%X#@5Ú¡>û]#@Ï ¢>ój#@¡V¢>ev#@m¢¢>ev#@m¢¢>Qy#@Éµ¢>7z#@¿»¢>F#@^G£>7•#@Ín£>õ©#@‹ø£>Eº#@e¤>$@0®¦>‚k$@3©>“Õ$@iÑ«>ú$@SÈ¬>}#%@™á­>$%@å­>/%@0®>?%@/®>Ï&@Bí³>®(&@~İ´>á=&@Åoµ>ÒA&@şŠµ>NR&@áüµ>	Z&@W2¶>–„&@íX·>¿’&@»·>§»&@6×¸>'@–[»>,'@‚ç»>o-'@Ğğ»>%A'@Ëz¼>ÃV'@I½>‡'@%e¾>7 '@f¿>+®'@®x¿>[È'@V1À>ŸÍ'@VÀ>¥Ü'@ÀÀ>Óğ'@/OÁ>±ú'@û”Á>®((@ÂÚÂ>U2(@@Ã>…6(@ô<Ã>‰H(@â¼Ã>6L(@×Ã>î…(@ËqÅ>j›(@
+Æ>Îº(@=ëÆ>VÉ(@!SÇ>ÉÌ(@ÔkÇ>Î(@uÇ>ŒÜ(@£ÜÇ>6)@nãÈ>fA)@À°Ê>WC)@»¾Ê>T)@î6Ë>fr)@öÌ>Ï†)@T¥Ì>áØ)@“÷Î>ßŞ)@#Ï>™õ)@ÈÏ>&*@d(Ñ>îw*@b~Ó>Ó–*@‹`Ô>h£*@Å¼Ô>È*@­ÉÕ>B+@MÙ>B+@MÙ>¹M+@Û¢Ù>1d+@IÚ>ùt+@cÅÚ>X„+@Q7Û>I+@§yÛ>Ã§+@1>Ü>ß¶+@u®Ü>†·+@O³Ü>f,@çïŞ>²%,@•èß>JC,@ìÅà>WK,@5á>QY,@ëjá>îô,@uıå>¢-@¶ç>·2-@­Ğç>M-@œè>ÅN-@B¥è>ç~-@µê>	„-@¹9ê>ª-@ÃZë>YÒ-@8ì>ƒø-@·±í>eû-@ÄÇí>#.@÷î>š/.@sWï>§F.@7ğ>6j.@Rñ>ƒr.@Yñ>Ñî.@µõ>÷.@çWõ>W/@şÅõ>ws/@Èù>p´/@#û>lÙ/@8ü>@0@³`ÿ>ez0@““ ?ñ¦0@*C?Û·0@ğ…?_ğ0@ae?1@?? 1@c"?}/1@•_?@1@2¡?
+I1@Å?²}1@š–?¡ˆ1@,Â?»¿1@?LÄ1@K°??
+2@AÈ?‰2@?~%2@‡5?‰p2@1c?uƒ2@f¯?CÎ2@Vİ	?şæ2@]A
+?Å3@`Ú
+?æ<3@®?G3@åÆ?n…3@ÄÄ?“3@\ü?‚Æ3@PÎ?ŠÆ3@nÎ?Ñ3@7ù?<4@Ôó?q4@Ù‰?©x4@ş¨?C€4@HÈ?«Œ4@cû?å5@Iô?Ã)5@Ë„?Ÿf5@ƒ?Fs5@"¶?x|5@fÜ?†5@‡?áı5@aø?™6@‹B?™6@ŒB?¨96@Çò?P>6@P?`6@+”?Şz6@¢?ZË6@ŸW?Bì6@‰â?’ö6@?Ñ?7@D?ıP7@íŒ?RV7@Š£?Õd7@ á?-n7@Ê?Ñ³7@ê0??Ù7@jĞ?æ7@×?Ä)8@X( ?p8@›U!?¡8@ıÜ!?28@‘"?Y«8@T"?¡Ú8@›#?¶â8@mB#?*9@¤1$?k!9@õP$?$9@M\$?ÿU9@O4%?q•9@FG&?ú£9@Y†&?>Ê9@š,'?ìı9@…(?‘:@ïx(?²:@˜(?ÉO:@·r)?:@§A*?&§:@ ñ*?ÿ¹:@ÍC+?Âå:@ø,?;@¨,?ê';@'-?Â/;@¨I-?1L;@Ç-?_;@p.?±h;@ÖD.?r|;@œ.?HÃ;@šÕ/?GÓ;@„0?  <@ıâ0?–6<@ªÕ1?—@<@22?áu<@°ï2?c†<@V93?ˆ’<@‘o3?·<@
+4?+=@4å5?­<=@ºi6?J=@¦6?Qx=@ v7?PÇ=@<Ú8?Œè=@hp9?é=@şt9?Æñ=@š9?ê>@ :?’>@$<:?G=>@ğ:?ëT>@X[;?Jw>@r÷;?>@³c<?õ­>@ ğ<?³¯>@ø<?ú?@[ø>?B>?@İ‚??òP?@jØ??m?@Ì[@?F?@Âú@?Ò“?@A?©¢?@/OA?'Ã?@äA?bí?@Ô¦B?:@@¶~C?x+@@ÅC??F@@ª@D?k_@@û´D?×l@@óD?˜@@7»E?Ä¶@@gIF?çü@@
+G?(A@ZH?CoA@©£I?rA@×°I?£uA@iÁI?A@íI?{¤A@9œJ?ì¯A@¼ÑJ?V½A@|K?ÏÅA@ 8K?óÕA@¯ƒK?/ÜA@â K??êA@ÇâK??şA@…@L?‰ B@BKL?zB@”»L?EB@L¿L?c6B@HM?{8B@ÜQM?'GB@Ò–M?êtB@nN?wB@áïN?•¤B@¸NO?7ÇB@òO?ïÇB@„õO?MøB@ÚP?‡C@iQ?·C@”Q? C@E–Q?((C@‰¼Q?x5C@˜ûQ?¶>C@d'R?Ø|C@7NS?"C@hìS?‚¸C@áiT?N¼C@õ{T?|öC@#‘U?6D@a×U?öD@–÷U?†&D@gvV?ç1D@Ã¬V?wD@^÷W?íD@‚sX?¢¨D@.åX?	½D@GY?E¾D@MY?ÓD@œ°Y?…ØD@ËY?1åD@øZ?kE@ÄZ?Õ-E@e[?¿QE@\?ÍyE@ïÓ\?7µE@$ó]?ëÿE@	]_?ÜF@4Ñ_?<JF@ëÅ`?âXF@)a?"˜F@Ab?a®F@•­b?\°F@?·b?öÏF@xQc?.ÜF@!c?fæF@¿c?G@²d?µOG@rÂe?‰SG@6Õe?@G@®«f?ø”G@Zg?¸©G@R|g?õºG@Ñg?S½G@¾Üg??H@5+i?8H@¹9j?SH@ù¾j?`ˆH@¸Æk?"£H@>Kl?9¤H@¥Pl?è¾H@èÔl?»ÄH@Çñl?¹çH@nŸm?±I@I4n?1AI@:\o?¤_I@çóo?ísI@Yp?ˆI@´½p?3ˆI@"¾p?ˆ»I@t¾q?DÀI@Öq?rÆI@ õq?~ğI@PÇr?y÷I@Eêr?J@Šes?²BJ@Gct?C^J@ªít?5lJ@·3u?Ö‡J@”¾u?ÀØJ@ìUw?åJ@!”w?öèJ@©§w?ÄùJ@nüw?	K@`Ix?m
+K@‚Px?
+K@åqx?šK@ùx?¤7K@ç4y?aK@[z?b}K@Í•z?É—K@š{?Í¡K@dN{?Í±K@‡Ÿ{?‡ÔK@ÏO|?~ÙK@i|?«ŞK@Oƒ|?áéK@F¼|?jL@*C}?bL@f”}?bL@g”}?¶YL@ƒõ~?,`L@t?×pL@|k?ÌrL@yu?ĞsL@©z?ö~L@Š³?ŒL@5ö?4”L@€?¶L@”f€?ÛÓL@´²€?häL@İ€?>òL@z ?£óL@?5şL@?­,M@>–?R3M@J§?E<M@A¾?=M@²Á?áEM@éÖ?>HM@üÜ?ÎRM@ø?ÕrM@aJ‚?:tM@÷M‚?â‹M@ÍŠ‚?SÀM@Êƒ?âÆM@¯"ƒ?UßM@µaƒ?‹ñM@®ƒ?’N@ÇÁƒ?ºN@~ëƒ?:5N@u?„??zN@
+ò„?UƒN@“	…?…N@ğ…?óÄN@º³…?PÍN@rÉ…?æÒN@ò×…?ıÚN@ôì…?aO@ëb†?¸O@›x†?Á*O@Z¼†?˜+O@Š¾†?•?O@–ò†?Ì^O@ïC‡? _O@F‡?´kO@–e‡?n•O@xÒ‡?^ÉO@.Zˆ?òéO@f¯ˆ?:üO@Dßˆ?¼P@°íˆ?
+P@C ‰?RP@z+‰?-P@I_‰?EP@O‰?;MP@³‰?gdP@vğ‰?ñoP@ÄŠ?K~P@z4Š?å‡P@¸MŠ?+P@5^Š?µP@¡_Š?ç¢P@À”Š?ÇP@õŠ? áP@é9‹?—Q@Äµ‹?-Q@O·‹?0Q@ ¼‹?Æ#Q@hè‹?Ò8Q@şŒ?òHQ@šJŒ?DPQ@ô]Œ?ŠTQ@@iŒ?S–Q@Y?ÂQ@	+?h«Q@4O?•«Q@«O?YËQ@å£?dİQ@ÄÓ?"èQ@Hğ?³R@¬f?"iR@]G?œjR@LK?èmR@T?uR@Ig?zR@t?>‰R@ğœ?ú¢R@–á?#®R@`ÿ?
+²R@Ê	?ó¶R@ç?ºR@Œ ?;¼R@ %?;¼R@ %?(ÈR@ÙD?DÏR@ØW?&S@ª‘?!S@(‘?!S@(‘?HMS@©‘?VS@{À‘?ıeS@[ë‘?ÔhS@øò‘?×hS@ó‘?´lS@^ı‘?–S@¶m’?Á›S@±{’?ˆS@v€’? £S@~’?p¦S@e˜’?õµS@Â’?´¶S@Ä’?æT@§“?ë	T@¤“?ûT@ƒ¼“?ê"T@xç“?Ã)T@îù“?gFT@4G”?vnT@_³”?7vT@SÈ”?%„T@ûí”?%„T@ûí”?=T@E	•?^T@	•?”T@•?¸œT@n0•?§T@˜M•??¬T@rZ•?»·T@ˆy•?HÀT@®•?KÊT@Ì«•?ûËT@]°•?.îT@	–?AU@ï–?²FU@Jı–?.GU@›ş–?àOU@=—?ühU@„Z—??kU@ª`—?Ô}U@9“—?Ì¾U@-D˜?«ÂU@»N˜?´ÍU@Ôl˜?ÇÙU@Á˜?›ÚU@˜?êÜU@P–˜?áU@½¡˜?æãU@_©˜?¯ïU@‰É˜?ãõU@xÚ˜?pöU@øÛ˜?öV@à)™?iV@÷@™?Ç4V@O†™?Á=V@Ü™?ÖDV@:²™?ËSV@)Û™?¨_V@¡û™?#dV@æš?ldV@­š?XeV@2š?>zV@pDš?V@	Wš?(ŠV@pš?V@„}š?¤œV@¶¢š?³ŸV@«š?Â¦V@u¾š?ÉÃV@›?zÅV@¾›?¹ËV@å#›?úĞV@Q2›?ãïV@;‡›?ŠùV@Á¡›?+W@8Ò›?´W@rÖ›?C#W@€œ?¤@W@_eœ?BW@!iœ?ÙfW@¢Îœ?ÄmW@¶áœ?
+yW@Ë ?èyW@0?D{W@ï?ê~W@ÿ?ÎW@ù?EƒW@?G©W@ç…?)çW@ê0?ÓğW@¤K?´X@–?º'X@¡ã?-/X@Dø?î<X@dŸ?uBX@´-Ÿ?CX@L/Ÿ?´QX@úWŸ?]X@wŸ?l}X@JÑŸ?€X@ØŸ?ŠX@~* ?Ô¤X@À> ?†¦X@uC ?p­X@¯V ?ÂµX@Ïm ?¨¾X@† ?ÌX@ü« ?ÙX@Ğ ?àÚX@Õ ?áX@Iæ ?ŞêX@“¡?<ëX@™¡?€ôX@d¡?$Y@¿J¡?ç,Y@•¹¡?RBY@Sõ¡?w_Y@­F¢?ÜeY@ˆX¢?:pY@~u¢?R€Y@w¢¢?ç€Y@¤¢?:•Y@æÜ¢?ÓÓY@Œ£?@ÙY@G›£?ĞàY@v°£?ÜğY@lİ£?¡ûY@û£?ÙZ@¨¤?Z@m¤?àZ@Æ.¤?ğZ@×[¤?Ÿ"Z@ùh¤?‡4Z@=›¤?‘HZ@ƒÓ¤?ÓIZ@×¤?	dZ@± ¥?	dZ@± ¥?èiZ@31¥?uZ@ÉQ¥?+„Z@{¥?µ‡Z@…¥?¤–Z@¯¥?á¦Z@»Ü¥?³©Z@¬ä¥?IÉZ@¦=¦?YÕZ@¦_¦?ÿZ@#Õ¦?j[@&ø¦?ü4[@‹m§?q6[@©q§?I[@p¦§?öK[@|®§??U[@½È§?Û\[@AŞ§?­_[@=æ§?¬r[@û¨?¬r[@û¨?ày[@^0¨?Ğ[@Oq¨?¢“[@Ky¨?õ›[@Ş¨?"¶[@Û¨?5·[@Ş¨?J»[@©é¨?'È[@#©?.Ñ[@»'©?Œì[@du©?ğ÷[@¹•©?¥	\@È©?7\@Õ×©?ª'\@Nª?DE\@|qª?cJ\@€ª?j[\@‚°ª?Ìb\@„Åª?µg\@Óª?ui\@zØª?	w\@&ÿª?ò†\@y,«?1”\@8R«?X—\@3[«?ø¨\@r«?ª\@˜«?ª\@ı‘«?6º\@Ÿ¾«?¥Ç\@ôä«?Ô]@±“¬?Ô]@±“¬?¦]@–¬?ã]@™Á¬?d]@åÅ¬?ê]@ŒØ¬?% ]@Êá¬?ùU]@Ó{­?àX]@%„­?Po]@lÄ­?w]@Ú­?d{]@ç­?9–]@ö3®?@µ]@şŒ®?/¼]@ä ®?Jâ]@T¯?Ïå]@r¯?¯ö]@ôH¯?pû]@V¯? ^@d¯?"
+^@à€¯?‚"^@ Ç¯?”'^@šÕ¯?·n^@†¢°?]^@ìú°?Â^@·±?²¥^@%A±?E«^@<Q±?ß­^@ÁX±??´^@)k±?¿^@†Š±?z¿^@˜‹±?9È^@ß¤±?ÑĞ^@´½±?ËŞ^@æ±?Kä^@ ö±?)ğ^@R²?Éğ^@!²?Fú^@‘5²?%'_@s·²?¬*_@ªÁ²?†>_@*û²?ùS_@V9³?S]_@tT³? c_@èd³?´e_@¾l³? n_@,…³?u_@¿š³?lw_@& ³?Œ_@	Ü³?¡•_@Ô÷³?×–_@Vû³?-˜_@9ÿ³?`œ_@j´?Œ·_@ZZ´?w¹_@ë_´?¿_@Lp´?ŒÒ_@Ö¨´?¸Ö_@ø´´?nİ_@|È´?Ôï_@ş´?ô_@Âµ?5	`@âGµ?m`@üYµ?/`@™·µ?9;`@—Ùµ?h@`@²èµ?b`@äJ¶?ær`@ı{¶?N`@¦¶?¸`@Ó¶?êœ`@±ö¶?]£`@‰	·?÷¾`@8Z·?À`@_·?
+Î`@L†·?Ó`@•·?Õç`@ÇÑ·?^ğ`@Âê·?)ş`@#¸?b(a@Ú¸?42a@¤«¸?æ3a@›°¸?F8a@p½¸?ğ=a@Î¸?o@a@_Õ¸?Ş[a@Ü%¹?la@×V¹?›ma@íY¹?wna@r\¹?Ôya@Ñ}¹?Üƒa@I›¹?ıˆa@Yª¹?ja@;½¹?x¡a@Jò¹?Â±a@0"º?·a@;3º?‚¾a@°Gº?Óa@/„º?\Ôa@ú‡º?Ôa@bˆº?©Øa@¥”º??ßa@¨º?öòa@âº?Uùa@Ùôº?-b@À»?ˆ0b@Œ—»?Õ;b@â¸»?Fb@]Ø»?z^b@"¼?izb@¢q¼?ë{b@v¼?hšb@2Ğ¼?„¥b@ñ¼?¡¸b@–)½?¼b@°3½?cÃb@jI½?®Êb@_½?2Ìb@}c½?­Ïb@Ëm½?ŞØb@‰½?İŞb@Äš½?âb@8¤½?-ñb@ÿĞ½?püb@_ò½?Íşb@`ù½?;c@¾?}c@à'¾?ÿc@M/¾?;c@ÁD¾?D%c@jk¾?b-c@ƒ¾?77c@© ¾?8c@Q£¾?%@c@+»¾?ÙMc@Öã¾?ÁZc@+
+¿?-fc@,¿?Cvc@â[¿?%wc@‚^¿?D‚c@¿?²c@{§¿?	›c@3É¿?Ê³c@ÙÀ?…Êc@VÀ?-Ìc@p[À?tÏc@1eÀ?;×c@\|À? d@Á?œ+d@åwÁ?Í2d@ZÁ?•7d@ ›Á?/Od@âÁ?	Rd@œêÁ?¼dd@v"Â?Ùfd@Ç(Â?Üpd@²FÂ?@qd@İGÂ?Kd@×qÂ?Kd@×qÂ?†d@†Â?"‹d@?•Â?îd@š Â?é˜d@t¾Â?¦d@ÚåÂ?“ªd@NóÂ?·ªd@¹óÂ?Õ¯d@Ã?W³d@ˆÃ?iÀd@ª4Ã?–Òd@kÃ?ŒØd@ñ|Ã?ÅÛd@™†Ã?6Şd@êÃ?Êód@•ÎÃ?t%e@‰cÄ?:*e@İqÄ?»,e@_yÄ?F2e@ŠÄ?\<e@I¨Ä?BNe@ŞÄ?jYe@ÿÄ?¯ae@eÅ?:de@ Å?‚e@ÄyÅ?Dˆe@cŒÅ?Vše@¿ÂÅ? ªe@BòÅ?h®e@$ÿÅ?Ì·e@jÆ?ˆÕe@ùtÆ?âe@ÈšÆ?Eäe@a¡Æ?Kúe@ÃãÆ?»úe@åÆ?Ùf@‘ıÆ?üf@ı Ç?
+f@-Ç?˜f@6Ç?—f@GTÇ?T"f@Š\Ç?i0f@‡Ç?º:f@0¦Ç?"Ef@ÅÇ?yHf@µÏÇ?XIf@TÒÇ?!Mf@ÅİÇ?kWf@ÛüÇ?´af@ğÈ?wff@R*È?×if@ˆ4È?$jf@o5È?ıkf@;È?lf@^;È?tnf@xBÈ?Fsf@QÈ?Fvf@ZÈ?Ûzf@øgÈ?p©f@æôÈ?ò­f@É?Œ±f@rÉ?Y¹f@%É?´Òf@ßqÉ?åf@z©É?éf@‚µÉ?óìf@iÁÉ?yñf@!ÏÉ?5g@ÂPÊ?µ$g@jÊ?µ$g@jÊ?:>g@¸Ê?œWg@$Ë?€ag@4#Ë?†hg@Œ8Ë?kg@[@Ë?‚lg@©DË?¶|g@íuË?UŠg@]ŸË? ”g@'½Ë?U§g@œ÷Ë?8·g@ù'Ì?u¸g@¿+Ì? ½g@–9Ì?ÔÛg@‚—Ì?|æg@ú·Ì?¹èg@Î¾Ì?Óıg@%ÿÌ?Gh@Í?$h@­sÍ??'h@Š}Í?@h@LÉÍ? Gh@ŞÍ? Kh@ºêÍ?öRh@Î?Th@íÎ?°[h@¶Î?$gh@¸@Î?:€h@mÎ?:€h@mÎ?¯”h@ ÌÎ?7¨h@ÇÏ?±h@#Ï?v¸h@‡9Ï?®»h@cCÏ?ÔÚh@Ï¢Ï?õÚh@4£Ï?ÓÛh@Ü¥Ï?>ëh@ÕÏ?=ïh@`áÏ?i@/Ğ?i@`Ğ?‰i@†uĞ?¢$i@+…Ğ?|&i@ÚŠĞ?¬/i@§Ğ?%8i@ÁĞ?G@i@ÚĞ?©Ki@ıĞ?›[i@.Ñ?Ú`i@$>Ñ?}yi@ß‰Ñ?…yi@ú‰Ñ?…yi@ú‰Ñ?…}i@E–Ñ?—i@ñäÑ?`˜i@ãèÑ?w™i@?ìÑ?;¦i@ˆÒ?ß­i@+Ò?OÅi@9sÒ?äÌi@–ŠÒ?ñi@hûÒ?ìôi@öÓ?öi@•	Ó?®j@6Ó?Nj@|8Ó?!j@÷Ó?!j@÷Ó?4aj@;TÔ?0ej@Š`Ô?Tgj@'gÔ?…yj@fŸÔ?j@åáÔ?[”j@fòÔ?v•j@ÒõÔ?Îj@»Õ?„ j@Õ?®¨j@M1Õ?®¶j@£\Õ?®¶j@£\Õ?ï¼j@pÕ?N½j@'qÕ?¾j@ŞtÕ?Åj@‰Õ?ÇÊj@âšÕ?Ój@f´Õ?bÖj@Õ¾Õ?âÙj@­ÉÕ?kçj@óÕ?•
+k@¦`Ö?1k@‘Ö?#k@|¬Ö?S,k@YÉÖ?S,k@YÉÖ?•7k@LìÖ?Î8k@ğÖ?9k@òğÖ?ck@9s×?Âfk@Ø~×?«„k@ÕÛ×?Nk@v(Ø? k@
+1Ø?ãÕk@ŸØØ?5×k@½ÜØ?Ûk@ïèØ?GÜk@‰ìØ?-æk@aÙ?Åék@“Ù?Wõk@£:Ù?¡úk@!KÙ?µ l@^Ù?l@h~Ù?.l@¡Ù?+'l@ÖÙ?")l@/ÜÙ?81l@lõÙ?vNl@¹PÚ?)Ul@¦eÚ?³{l@ŞÚ?ÅŠl@0Û?çl@>Û?=˜l@Q7Û?ÿ›l@CÛ?ª°l@¾ƒÛ?´l@çÛ?ÿºl@¤Û?Å¾l@ã¯Û?MĞl@ÈæÛ?Öl@ÄøÛ?l×l@ıÛ?nŞl@
+Ü?èl@N1Ü?ñl@“MÜ?Äıl@<uÜ?*m@b¢Ü?Şm@ÇÜ?-"m@jçÜ?EDm@hRİ?³Im@ucİ?³Im@ucİ?\Rm@¥~İ?ÍYm@–İ?ÍYm@–İ?ºbm@²İ?Ùnm@#Øİ?Rtm@Véİ?tm@êİ?;xm@õİ?¾xm@9÷İ?¾xm@9÷İ?Æym@xúİ?Ù~m@j
+Ş?9m@âŞ?$‡m@|$Ş?8¯m@ˆ¢Ş?ÑÄm@€æŞ?+Êm@X÷Ş?+Êm@X÷Ş?ŒÛm@.ß?šßm@×:ß?Uàm@$=ß?òám@7Bß?qêm@û\ß?ßïm@nß?ßïm@nß?|øm@9‰ß?n@£Ãß?En@§İß?s*n@À&à?‰-n@}0à?‰-n@}0à?=n@kaà?“Wn@+µà?)cn@ÀÙà?
+fn@Ùâà?øon@5á?‹n@ËWá?Œn@B’á?°¼n@Áôá?‰Ñn@º6â?‰Ñn@º6â?bán@æhâ?Æán@"jâ?<o@óĞâ?0o@Ñãâ?{
+o@ëâ?äo@>ã?“o@Âã?o@ã?°6o@>wã?ç7o@{ã?ç7o@{ã?.>o@ã?¹Io@¡³ã?¹Io@¡³ã?æeo@ä?zko@Çä?ro@´3ä?­{o@8Rä?
+›o@âµä?¢o@÷Íä?¨o@#ßä?¨o@#ßä?D¯o@.öä?-°o@ùä?êÀo@N.å?Ìo@‹Så?pÙo@U|å?²òo@¿Ìå?}÷o@Üå?ıo@Äíå?!p@<7æ?Wp@•Tæ?‡5p@²¡æ?°;p@Vµæ?¦Ep@Õæ?BTp@¶ç?Xp@ ç?hp@ÄBç?
+xp@éuç?ëŒp@—¸ç?7Ÿp@óç?›²p@1è?1¿p@BYè??¿p@lYè?EÁp@æ_è?kÆp@]pè?4Ép@Eyè?ÛŞp@‰¾è?æp@-×è?¨êp@Käè?Œôp@óé?Bşp@	#é?&q@9é?jq@ò9é?øq@Bé?úq@_Ué?¡q@éé?”<q@®êé?ßKq@·ê?wPq@p*ê?Ğgq@Tuê?¢rq@˜ê?è{q@Ğµê?Ú‚q@Ìê? „q@ÍÑê?…q@cÓê?¡q@-ë?ªq@ÏKë?²q@åcë?¹³q@ië?v·q@uë?í¿q@Kë?­úq@9Mì?éûq@2Qì?r@qpì?´r@±ì?N%r@vÖì?˜9r@Òí? Ar@0í?àMr@.Yí?EOr@¬]í?-ur@ç×í?vr@_Üí?y’r@o6î?l–r@/Cî?X—r@)Fî?”›r@ÕSî?`¢r@Äiî?)³r@øŸî?´r@£î?ô´r@Ã¥î?ıår@9Dï?$ìr@Xï?jír@;\ï?# s@È˜ï?	s@›µï?î.s@70ğ?ô?s@Wgğ?es@|ßğ?evs@Ãñ?°€s@%9ñ?ês@=ñ?‘„s@ºEñ?±‹s@Ô\ñ?s@C•ñ?¦Ÿs@”ñ?`Ôs@ÄHò?«ës@s”ò?½îs@oò?Mt@Éó?Ût@£7ó?Ï#t@Kó?Ï#t@Kó?.2t@Åyó?³:t@}•ó?ñ^t@‚ô?jt@¶/ô?¡pt@Eô?2¤t@>íô?D°t@õ?ó¿t@ÊGõ?iÆt@ß\õ?MØt@H—õ?ît@÷ßõ?$út@Ìö?“u@ $ö?Šu@+ö?ÿu@Ğ/ö?2u@hö?Zu@R?÷?#au@¦V÷?cu@ó\÷?Gku@Üw÷?Íu@»÷?"u@Áæ÷?¶u@mø?çÀu@vø?çÀu@vø?óu@ç4ù?`÷u@8Cù?«v@Ohù?Nv@ö‡ù?µv@"“ù?8v@ªù?d/v@>ûù?Mv@p^ú?`‚v@<û?‡‚v@ºû?e‡v@Áû?‡v@Fû?3v@u6û?N²v@ªû?q²v@Œªû?r»v@9Èû?	Ìv@éşû?œÔv@.ü?ÿİv@#:ü?áìv@9kü?«òv@U~ü?»ôv@!…ü?fûv@#›ü?¢w@µ¯ü?¢w@µ¯ü?şw@ÎÛü?–w@áü?¶!w@›ı?ø!w@uı?²'w@`-ı?K.w@)Cı?iDw@=Œı?PFw@†’ı?UVw@yÇı?tiw@°ş?Otw@—*ş?>ww@L4ş?˜w@¡ş?Ÿ±w@‚õş?*Àw@®%ÿ?Çw@}<ÿ?„Òw@zbÿ??Øw@xuÿ??Øw@yuÿ?åîw@ŠÀÿ?Èïw@zÃÿ?òw@7Ëÿ?Èów@¾Ğÿ?ˆùw@Ïãÿ?ˆùw@Ïãÿ?Sx@p
+ @Ùx@“ @2x@q! @ä!x@Ø4 @ª*x@hC @d9x@Ú[ @ ;x@_ @+Zx@G’ @®dx@½£ @J‚x@óÔ @øx@ú@x@@¡®x@±@Åx@òD@ûËx@ŠO@ÈÍx@ˆR@Sy@È@=#y@êà@Æ1y@(ù@oy@*`@pty@ih@Ywy@Fm@|Šy@>@Ñ¤y@>¹@½°y@-Í@¯ºy@Îİ@Íy@ü@œÓy@@ÑŞy@>@xäy@µ#@§êy@.@Îñy@:@Òşy@ĞO@™z@*[@,z@”›@È-z@{@ê3z@Â¨@ÔEz@ÊÆ@^Mz@mÓ@aNz@ Õ@Ú·z@*†@¼z@@·ız@ û@"ÿz@ş@×{@‘@N{@'4@Ğ3{@¯V@7F{@­u@õY{@ò–@Ÿb{@‹¥@5i{@¦°@Tw{@tÈ@t~{@yÔ@ß“{@™ø@·{@Ï4@–ğ{@&•@±|@À³@ÿ|@?Ê@ÿ|@?Ê@]|@Õ@¸|@%ã@Ì7|@’@$O|@5@?‹|@æš@Úª|@zĞ@¬|@xÒ@AÖ|@@6à|@+@Îà|@,@Ğá|@»-@å|@>3@Ïå|@‚4@Åû|@ÍY@Ù}@´‚@˜!}@š@æ(}@z¦@:}@ºÃ@L=}@(É@óN}@,ç@Dt}@«&	@Ú}@Ô	@•á}@ìà	@äë}@ò	@ï ~@h
+@â~@ß;
+@,~@`
+@-~@·a
+@SH~@P
+@ÕN~@n›
+@†Z~@j¯
+@j~@Ê
+@Rm~@‹Ï
+@7v~@ÂŞ
+@Œ~@@.–~@o@µ©~@Û6@Ş»~@ñU@^û~@½Â@²@˜ñ@»@õ@Œ)@î@ä7@‹*@u^@Ál@J~@n£@,±@èú@-¸@ó@-Æ@	@ƒË@7(@çÒ@î4@9ø@.u@T€@Õº@€@µÀ@æ€@¹â@ş(€@â@|,€@í@„F€@Çu@>I€@3@ëK€@oˆ@[€@—¼@Ïd€@rŞ@f€@®ä@t€@V@b‹€@åc@ô›€@G@Ş€@½‚@Ş€@@„@Oê€@­@›ö€@É×@zı€@«ï@Â@ãf@6<@öÉ@‹G@pñ@áG@ò@õY@¤1@/o@±{@áz@ƒ¤@h‡@?Ğ@B@³ä@`Ò@qÖ@»‚@…¦@y‚@+·@À‚@<Û@¿ ‚@Gé@Æ ‚@^é@E/‚@G@1^‚@CÁ@^o‚@¹ı@5}‚@w.@Ò~‚@'4@8Œ‚@`c@9Œ‚@ac@³‚@¡@‰ª‚@HÎ@Èª‚@&Ï@x°‚@9ã@R±‚@8æ@‡	ƒ@ı@ó%ƒ@§‚@'&ƒ@_ƒ@Û0ƒ@K©@¤Dƒ@sï@Ùlƒ@,~@ qƒ@]@vƒ@Ü@I}ƒ@¸@¿‹ƒ@øë@	ƒ@¬÷@Y¶ƒ@ƒ@ºĞƒ@‡á@âÔƒ@Zğ@+Üƒ@R
+@›âƒ@D!@Fëƒ@/@@Rôƒ@v`@<	„@«@(„@ı±@Ş„@òÉ@$„@ë@R„@±@ra„@”æ@ƒ„@	a@'†„@j@n“„@¾™@Ç«„@ ñ@Ãá„@!³@tö„@”ı@à…@Šy@†=…@²ı@‡I…@) @ª~…@÷è @—…@)A!@K×…@ç)"@³í…@.{"@Ë†@•"#@3†@&w#@o5†@Î#@Â9†@‰#@‡F†@¾#@Î{†@€$@`‡†@Gª$@æŠ†@!·$@2­†@O4%@/¼†@k%@óÇ†@–%@ÿÙ†@Ø%@Fâ†@Oö%@Æö†@UA&@Å*‡@Óÿ&@œ9‡@@6'@ˆr‡@B(@Ä³‡@E÷(@áÂ‡@ô.)@zÄ‡@Ô4)@rˆ@*@¬ˆ@
+Y*@Øˆ@Q‚*@÷+ˆ@Ò²*@˜dˆ@b„+@ıÈˆ@Òø,@’‰@™á-@#‰@íG.@Œv‰@~/@‰@Û/@­—‰@Uû/@CÏ‰@hË0@›Õ‰@*ã0@@%Š@ş2@^_Š@€è2@
+ÏŠ@€4@Òº‹@8@h'Œ@Ö¨9@dåŒ@ø<@ã¢@\Y?@i@zÎ@@bŒ@ÈF@Ä@À’K@
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> scheme K4f7e7758 
+.setscheme , scheme(stcolor) naturallywhite(1)
+<EndItem>
+<BeginItem> twowaygraph_g K5d25eca8 <UseScheme> K4f7e7758
+.style.editstyle boxstyle( linestyle( color(white)) shadestyle( color(white))) editcopy
+.sersets[1] = .__Map.K4ef81ce8.ref
+.sersets[2] = .__Map.K4ef82b98.ref
+.sersets[3] = .__Map.K4ef82508.ref
+.sersets[4] = .__Map.K4ef82008.ref
+.sersets[5] = .__Map.K4ef82968.ref
+.sersets[6] = .__Map.K4ef83ef8.ref
+.sersets[7] = .__Map.K4ef83638.ref
+.sersets[8] = .__Map.K4ef83db8.ref
+.sersets[9] = .__Map.K4ef836d8.ref
+.sersets[10] = .__Map.K4ef838b8.ref
+.sersets[11] = .__Map.K4ef83958.ref
+.sersets[12] = .__Map.K4ef830e8.ref
+.sersets[13] = .__Map.K4ef83368.ref
+.sersets[14] = .__Map.K4ef84ee8.ref
+.sersets[15] = .__Map.K4ef85668.ref
+.sersets[16] = .__Map.K4ef84998.ref
+.sersets[17] = .__Map.K4ef850c8.ref
+.sersets[18] = .__Map.K4ef84a88.ref
+.sersets[19] = .__Map.K4ef847b8.ref
+.sersets[20] = .__Map.K4ef85618.ref
+.sersets[21] = .__Map.K4ef84d08.ref
+.sersets[22] = .__Map.K4ef869c8.ref
+.sersets[23] = .__Map.K4ef85f78.ref
+.sersets[24] = .__Map.K4ef86158.ref
+.sersets[25] = .__Map.K4ef86568.ref
+.sersets[26] = .__Map.K4ef861f8.ref
+.sersets[27] = .__Map.K4ef86928.ref
+.sersets[28] = .__Map.K4ef86798.ref
+.sersets[29] = .__Map.K4ef85938.ref
+.sersets[30] = .__Map.K4ef87468.ref
+.sersets[31] = .__Map.K4ef87698.ref
+.sersets[32] = .__Map.K4ef87d78.ref
+.sersets[33] = .__Map.K4ef87058.ref
+.sersets[34] = .__Map.K4ef88098.ref
+.sersets[35] = .__Map.K4ef86ce8.ref
+.sersets[36] = .__Map.K4ef86d38.ref
+.sersets[37] = .__Map.K4ef875f8.ref
+.sersets[38] = .__Map.K4ef88bd8.ref
+.sersets[39] = .__Map.K4ef88ae8.ref
+.sersets[40] = .__Map.K4ef88c28.ref
+.sersets[41] = .__Map.K4ef892b8.ref
+.sersets[42] = .__Map.K4ef88e08.ref
+.sersets[43] = .__Map.K4ef88408.ref
+.sersets[44] = .__Map.K4ef89448.ref
+.sersets[45] = .__Map.K4ef889f8.ref
+.sersets[46] = .__Map.K4ef894e8.ref
+.sersets[47] = .__Map.K4ef89b78.ref
+.sersets[48] = .__Map.K4ef89768.ref
+.sersets[49] = .__Map.K4ef89d58.ref
+.sersets[50] = .__Map.K4ef799f8.ref
+.sersets[51] = .__Map.K4ef79778.ref
+.sersets[52] = .__Map.K4ef79638.ref
+.sersets[53] = .__Map.K4ef7a088.ref
+.sersets[54] = .__Map.K4ef79a48.ref
+.sersets[55] = .__Map.K4ef79ae8.ref
+.sersets[56] = .__Map.K4ef7a3f8.ref
+.sersets[57] = .__Map.K4ef79228.ref
+.sersets[58] = .__Map.K4ef7ad08.ref
+.sersets[59] = .__Map.K4ef7b578.ref
+.sersets[60] = .__Map.K4ef7b118.ref
+.sersets[61] = .__Map.K4ef7aa88.ref
+.sersets[62] = .__Map.K4ef7b618.ref
+.sersets[63] = .__Map.K4ef7a588.ref
+.sersets[64] = .__Map.K4ef7af38.ref
+.sersets[65] = .__Map.K4ef7b028.ref
+.sersets[66] = .__Map.K4ef7bf28.ref
+.sersets[67] = .__Map.K4ef7c6f8.ref
+.sersets[68] = .__Map.K4ef7bed8.ref
+.sersets[69] = .__Map.K4ef7cba8.ref
+.sersets[70] = .__Map.K4ef7cb08.ref
+.sersets[71] = .__Map.K4ef7c888.ref
+.sersets[72] = .__Map.K4ef7c3d8.ref
+.sersets[73] = .__Map.K4ef7bc08.ref
+.sersets[74] = .__Map.K4ef7d008.ref
+.sersets[75] = .__Map.K4ef7d8c8.ref
+.sersets[76] = .__Map.K4ef80bb8.ref
+.sersets[77] = .__Map.K4ef813d8.ref
+.sersets[78] = .__Map.K36180cb8.ref
+.sersets[79] = .__Map.K36180f38.ref
+.sersets[80] = .__Map.K36181168.ref
+.sersets[81] = .__Map.K36180678.ref
+.sersets[82] = .__Map.K3617ffe8.ref
+.sersets[83] = .__Map.K36180768.ref
+.sersets[84] = .__Map.K361810c8.ref
+.sersets[85] = .__Map.K36181118.ref
+.sersets[86] = .__Map.K36182428.ref
+.sersets[87] = .__Map.K36181398.ref
+.insert (plotregion1 = .plotregion.new , style(scheme twoway) graph(`.objkey')) at 1 1
+.plotregion1.Declare plot1 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof delay_pred') xvariable(`.sersets[1].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p1line) 
+.plotregion1.plot1.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot2 = .yxview.new , type(line) serset(`.sersets[2].objkey') yvariable(`.sersets[2].seriesof delay_pred') xvariable(`.sersets[2].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p2line) 
+.plotregion1.plot2.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot3 = .yxview.new , type(line) serset(`.sersets[3].objkey') yvariable(`.sersets[3].seriesof delay_pred') xvariable(`.sersets[3].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p3line) 
+.plotregion1.plot3.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot4 = .yxview.new , type(line) serset(`.sersets[4].objkey') yvariable(`.sersets[4].seriesof delay_pred') xvariable(`.sersets[4].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p4line) 
+.plotregion1.plot4.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot5 = .yxview.new , type(line) serset(`.sersets[5].objkey') yvariable(`.sersets[5].seriesof delay_pred') xvariable(`.sersets[5].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p5line) 
+.plotregion1.plot5.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot6 = .yxview.new , type(line) serset(`.sersets[6].objkey') yvariable(`.sersets[6].seriesof delay_pred') xvariable(`.sersets[6].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p6line) 
+.plotregion1.plot6.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot7 = .yxview.new , type(line) serset(`.sersets[7].objkey') yvariable(`.sersets[7].seriesof delay_pred') xvariable(`.sersets[7].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p7line) 
+.plotregion1.plot7.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot8 = .yxview.new , type(line) serset(`.sersets[8].objkey') yvariable(`.sersets[8].seriesof delay_pred') xvariable(`.sersets[8].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p8line) 
+.plotregion1.plot8.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot9 = .yxview.new , type(line) serset(`.sersets[9].objkey') yvariable(`.sersets[9].seriesof delay_pred') xvariable(`.sersets[9].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p9line) 
+.plotregion1.plot9.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot10 = .yxview.new , type(line) serset(`.sersets[10].objkey') yvariable(`.sersets[10].seriesof delay_pred') xvariable(`.sersets[10].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p10line) 
+.plotregion1.plot10.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot11 = .yxview.new , type(line) serset(`.sersets[11].objkey') yvariable(`.sersets[11].seriesof delay_pred') xvariable(`.sersets[11].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p11line) 
+.plotregion1.plot11.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot12 = .yxview.new , type(line) serset(`.sersets[12].objkey') yvariable(`.sersets[12].seriesof delay_pred') xvariable(`.sersets[12].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p12line) 
+.plotregion1.plot12.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot13 = .yxview.new , type(line) serset(`.sersets[13].objkey') yvariable(`.sersets[13].seriesof delay_pred') xvariable(`.sersets[13].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p13line) 
+.plotregion1.plot13.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot14 = .yxview.new , type(line) serset(`.sersets[14].objkey') yvariable(`.sersets[14].seriesof delay_pred') xvariable(`.sersets[14].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p14line) 
+.plotregion1.plot14.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot15 = .yxview.new , type(line) serset(`.sersets[15].objkey') yvariable(`.sersets[15].seriesof delay_pred') xvariable(`.sersets[15].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p15line) 
+.plotregion1.plot15.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot16 = .yxview.new , type(line) serset(`.sersets[16].objkey') yvariable(`.sersets[16].seriesof delay_pred') xvariable(`.sersets[16].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p1line) 
+.plotregion1.plot16.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot17 = .yxview.new , type(line) serset(`.sersets[17].objkey') yvariable(`.sersets[17].seriesof delay_pred') xvariable(`.sersets[17].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p2line) 
+.plotregion1.plot17.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot18 = .yxview.new , type(line) serset(`.sersets[18].objkey') yvariable(`.sersets[18].seriesof delay_pred') xvariable(`.sersets[18].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p3line) 
+.plotregion1.plot18.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot19 = .yxview.new , type(line) serset(`.sersets[19].objkey') yvariable(`.sersets[19].seriesof delay_pred') xvariable(`.sersets[19].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p4line) 
+.plotregion1.plot19.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot20 = .yxview.new , type(line) serset(`.sersets[20].objkey') yvariable(`.sersets[20].seriesof delay_pred') xvariable(`.sersets[20].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p5line) 
+.plotregion1.plot20.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot21 = .yxview.new , type(line) serset(`.sersets[21].objkey') yvariable(`.sersets[21].seriesof delay_pred') xvariable(`.sersets[21].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p6line) 
+.plotregion1.plot21.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot22 = .yxview.new , type(line) serset(`.sersets[22].objkey') yvariable(`.sersets[22].seriesof delay_pred') xvariable(`.sersets[22].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p7line) 
+.plotregion1.plot22.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot23 = .yxview.new , type(line) serset(`.sersets[23].objkey') yvariable(`.sersets[23].seriesof delay_pred') xvariable(`.sersets[23].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p8line) 
+.plotregion1.plot23.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot24 = .yxview.new , type(line) serset(`.sersets[24].objkey') yvariable(`.sersets[24].seriesof delay_pred') xvariable(`.sersets[24].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p9line) 
+.plotregion1.plot24.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot25 = .yxview.new , type(line) serset(`.sersets[25].objkey') yvariable(`.sersets[25].seriesof delay_pred') xvariable(`.sersets[25].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p10line) 
+.plotregion1.plot25.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot26 = .yxview.new , type(line) serset(`.sersets[26].objkey') yvariable(`.sersets[26].seriesof delay_pred') xvariable(`.sersets[26].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p11line) 
+.plotregion1.plot26.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot27 = .yxview.new , type(line) serset(`.sersets[27].objkey') yvariable(`.sersets[27].seriesof delay_pred') xvariable(`.sersets[27].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p12line) 
+.plotregion1.plot27.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot28 = .yxview.new , type(line) serset(`.sersets[28].objkey') yvariable(`.sersets[28].seriesof delay_pred') xvariable(`.sersets[28].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p13line) 
+.plotregion1.plot28.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot29 = .yxview.new , type(line) serset(`.sersets[29].objkey') yvariable(`.sersets[29].seriesof delay_pred') xvariable(`.sersets[29].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p14line) 
+.plotregion1.plot29.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot30 = .yxview.new , type(line) serset(`.sersets[30].objkey') yvariable(`.sersets[30].seriesof delay_pred') xvariable(`.sersets[30].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p15line) 
+.plotregion1.plot30.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot31 = .yxview.new , type(line) serset(`.sersets[31].objkey') yvariable(`.sersets[31].seriesof delay_pred') xvariable(`.sersets[31].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p1line) 
+.plotregion1.plot31.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot32 = .yxview.new , type(line) serset(`.sersets[32].objkey') yvariable(`.sersets[32].seriesof delay_pred') xvariable(`.sersets[32].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p2line) 
+.plotregion1.plot32.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot33 = .yxview.new , type(line) serset(`.sersets[33].objkey') yvariable(`.sersets[33].seriesof delay_pred') xvariable(`.sersets[33].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p3line) 
+.plotregion1.plot33.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot34 = .yxview.new , type(line) serset(`.sersets[34].objkey') yvariable(`.sersets[34].seriesof delay_pred') xvariable(`.sersets[34].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p4line) 
+.plotregion1.plot34.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot35 = .yxview.new , type(line) serset(`.sersets[35].objkey') yvariable(`.sersets[35].seriesof delay_pred') xvariable(`.sersets[35].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p5line) 
+.plotregion1.plot35.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot36 = .yxview.new , type(line) serset(`.sersets[36].objkey') yvariable(`.sersets[36].seriesof delay_pred') xvariable(`.sersets[36].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p6line) 
+.plotregion1.plot36.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot37 = .yxview.new , type(line) serset(`.sersets[37].objkey') yvariable(`.sersets[37].seriesof delay_pred') xvariable(`.sersets[37].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p7line) 
+.plotregion1.plot37.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot38 = .yxview.new , type(line) serset(`.sersets[38].objkey') yvariable(`.sersets[38].seriesof delay_pred') xvariable(`.sersets[38].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p8line) 
+.plotregion1.plot38.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot39 = .yxview.new , type(line) serset(`.sersets[39].objkey') yvariable(`.sersets[39].seriesof delay_pred') xvariable(`.sersets[39].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p9line) 
+.plotregion1.plot39.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot40 = .yxview.new , type(line) serset(`.sersets[40].objkey') yvariable(`.sersets[40].seriesof delay_pred') xvariable(`.sersets[40].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p10line) 
+.plotregion1.plot40.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot41 = .yxview.new , type(line) serset(`.sersets[41].objkey') yvariable(`.sersets[41].seriesof delay_pred') xvariable(`.sersets[41].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p11line) 
+.plotregion1.plot41.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot42 = .yxview.new , type(line) serset(`.sersets[42].objkey') yvariable(`.sersets[42].seriesof delay_pred') xvariable(`.sersets[42].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p12line) 
+.plotregion1.plot42.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot43 = .yxview.new , type(line) serset(`.sersets[43].objkey') yvariable(`.sersets[43].seriesof delay_pred') xvariable(`.sersets[43].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p13line) 
+.plotregion1.plot43.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot44 = .yxview.new , type(line) serset(`.sersets[44].objkey') yvariable(`.sersets[44].seriesof delay_pred') xvariable(`.sersets[44].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p14line) 
+.plotregion1.plot44.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot45 = .yxview.new , type(line) serset(`.sersets[45].objkey') yvariable(`.sersets[45].seriesof delay_pred') xvariable(`.sersets[45].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p15line) 
+.plotregion1.plot45.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot46 = .yxview.new , type(line) serset(`.sersets[46].objkey') yvariable(`.sersets[46].seriesof delay_pred') xvariable(`.sersets[46].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p1line) 
+.plotregion1.plot46.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot47 = .yxview.new , type(line) serset(`.sersets[47].objkey') yvariable(`.sersets[47].seriesof delay_pred') xvariable(`.sersets[47].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p2line) 
+.plotregion1.plot47.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot48 = .yxview.new , type(line) serset(`.sersets[48].objkey') yvariable(`.sersets[48].seriesof delay_pred') xvariable(`.sersets[48].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p3line) 
+.plotregion1.plot48.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot49 = .yxview.new , type(line) serset(`.sersets[49].objkey') yvariable(`.sersets[49].seriesof delay_pred') xvariable(`.sersets[49].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p4line) 
+.plotregion1.plot49.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot50 = .yxview.new , type(line) serset(`.sersets[50].objkey') yvariable(`.sersets[50].seriesof delay_pred') xvariable(`.sersets[50].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p5line) 
+.plotregion1.plot50.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot51 = .yxview.new , type(line) serset(`.sersets[51].objkey') yvariable(`.sersets[51].seriesof delay_pred') xvariable(`.sersets[51].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p6line) 
+.plotregion1.plot51.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot52 = .yxview.new , type(line) serset(`.sersets[52].objkey') yvariable(`.sersets[52].seriesof delay_pred') xvariable(`.sersets[52].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p7line) 
+.plotregion1.plot52.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot53 = .yxview.new , type(line) serset(`.sersets[53].objkey') yvariable(`.sersets[53].seriesof delay_pred') xvariable(`.sersets[53].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p8line) 
+.plotregion1.plot53.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot54 = .yxview.new , type(line) serset(`.sersets[54].objkey') yvariable(`.sersets[54].seriesof delay_pred') xvariable(`.sersets[54].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p9line) 
+.plotregion1.plot54.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot55 = .yxview.new , type(line) serset(`.sersets[55].objkey') yvariable(`.sersets[55].seriesof delay_pred') xvariable(`.sersets[55].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p10line) 
+.plotregion1.plot55.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot56 = .yxview.new , type(line) serset(`.sersets[56].objkey') yvariable(`.sersets[56].seriesof delay_pred') xvariable(`.sersets[56].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p11line) 
+.plotregion1.plot56.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot57 = .yxview.new , type(line) serset(`.sersets[57].objkey') yvariable(`.sersets[57].seriesof delay_pred') xvariable(`.sersets[57].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p12line) 
+.plotregion1.plot57.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot58 = .yxview.new , type(line) serset(`.sersets[58].objkey') yvariable(`.sersets[58].seriesof delay_pred') xvariable(`.sersets[58].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p13line) 
+.plotregion1.plot58.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot59 = .yxview.new , type(line) serset(`.sersets[59].objkey') yvariable(`.sersets[59].seriesof delay_pred') xvariable(`.sersets[59].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p14line) 
+.plotregion1.plot59.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot60 = .yxview.new , type(line) serset(`.sersets[60].objkey') yvariable(`.sersets[60].seriesof delay_pred') xvariable(`.sersets[60].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p15line) 
+.plotregion1.plot60.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot61 = .yxview.new , type(line) serset(`.sersets[61].objkey') yvariable(`.sersets[61].seriesof delay_pred') xvariable(`.sersets[61].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p1line) 
+.plotregion1.plot61.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot62 = .yxview.new , type(line) serset(`.sersets[62].objkey') yvariable(`.sersets[62].seriesof delay_pred') xvariable(`.sersets[62].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p2line) 
+.plotregion1.plot62.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot63 = .yxview.new , type(line) serset(`.sersets[63].objkey') yvariable(`.sersets[63].seriesof delay_pred') xvariable(`.sersets[63].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p3line) 
+.plotregion1.plot63.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot64 = .yxview.new , type(line) serset(`.sersets[64].objkey') yvariable(`.sersets[64].seriesof delay_pred') xvariable(`.sersets[64].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p4line) 
+.plotregion1.plot64.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot65 = .yxview.new , type(line) serset(`.sersets[65].objkey') yvariable(`.sersets[65].seriesof delay_pred') xvariable(`.sersets[65].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p5line) 
+.plotregion1.plot65.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot66 = .yxview.new , type(line) serset(`.sersets[66].objkey') yvariable(`.sersets[66].seriesof delay_pred') xvariable(`.sersets[66].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p6line) 
+.plotregion1.plot66.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot67 = .yxview.new , type(line) serset(`.sersets[67].objkey') yvariable(`.sersets[67].seriesof delay_pred') xvariable(`.sersets[67].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p7line) 
+.plotregion1.plot67.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot68 = .yxview.new , type(line) serset(`.sersets[68].objkey') yvariable(`.sersets[68].seriesof delay_pred') xvariable(`.sersets[68].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p8line) 
+.plotregion1.plot68.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot69 = .yxview.new , type(line) serset(`.sersets[69].objkey') yvariable(`.sersets[69].seriesof delay_pred') xvariable(`.sersets[69].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p9line) 
+.plotregion1.plot69.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot70 = .yxview.new , type(line) serset(`.sersets[70].objkey') yvariable(`.sersets[70].seriesof delay_pred') xvariable(`.sersets[70].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p10line) 
+.plotregion1.plot70.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot71 = .yxview.new , type(line) serset(`.sersets[71].objkey') yvariable(`.sersets[71].seriesof delay_pred') xvariable(`.sersets[71].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p11line) 
+.plotregion1.plot71.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot72 = .yxview.new , type(line) serset(`.sersets[72].objkey') yvariable(`.sersets[72].seriesof delay_pred') xvariable(`.sersets[72].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p12line) 
+.plotregion1.plot72.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot73 = .yxview.new , type(line) serset(`.sersets[73].objkey') yvariable(`.sersets[73].seriesof delay_pred') xvariable(`.sersets[73].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p13line) 
+.plotregion1.plot73.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot74 = .yxview.new , type(line) serset(`.sersets[74].objkey') yvariable(`.sersets[74].seriesof delay_pred') xvariable(`.sersets[74].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p14line) 
+.plotregion1.plot74.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot75 = .yxview.new , type(line) serset(`.sersets[75].objkey') yvariable(`.sersets[75].seriesof delay_pred') xvariable(`.sersets[75].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p15line) 
+.plotregion1.plot75.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot76 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p1line) 
+.plotregion1.plot76.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot77 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p2line) 
+.plotregion1.plot77.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot78 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p3line) 
+.plotregion1.plot78.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot79 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p4line) 
+.plotregion1.plot79.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot80 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p5line) 
+.plotregion1.plot80.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot81 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p6line) 
+.plotregion1.plot81.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot82 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p7line) 
+.plotregion1.plot82.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot83 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p8line) 
+.plotregion1.plot83.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot84 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p9line) 
+.plotregion1.plot84.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot85 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p10line) 
+.plotregion1.plot85.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot86 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p11line) 
+.plotregion1.plot86.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot87 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p12line) 
+.plotregion1.plot87.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot88 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p13line) 
+.plotregion1.plot88.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot89 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p14line) 
+.plotregion1.plot89.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot90 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p15line) 
+.plotregion1.plot90.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot91 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p1line) 
+.plotregion1.plot91.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot92 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p2line) 
+.plotregion1.plot92.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot93 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p3line) 
+.plotregion1.plot93.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot94 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p4line) 
+.plotregion1.plot94.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot95 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p5line) 
+.plotregion1.plot95.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot96 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p6line) 
+.plotregion1.plot96.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot97 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p7line) 
+.plotregion1.plot97.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot98 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p8line) 
+.plotregion1.plot98.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot99 = .yxview.new , type(line) serset(`.sersets[76].objkey') yvariable(`.sersets[76].seriesof delay_pred') xvariable(`.sersets[76].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p9line) 
+.plotregion1.plot99.style.editstyle line(color(blue%20)) area(linestyle(color(blue%20))) editcopy
+.plotregion1.Declare plot100 = .yxview.new , type(line) serset(`.sersets[77].objkey') yvariable(`.sersets[77].seriesof delay_pred') xvariable(`.sersets[77].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p10line) 
+.plotregion1.plot100.style.editstyle line(color(green%75)) area(linestyle(color(green%75))) editcopy
+.plotregion1.Declare plot101 = .yxview.new , type(line) serset(`.sersets[78].objkey') yvariable(`.sersets[78].seriesof delay_pred') xvariable(`.sersets[78].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p11line) 
+.plotregion1.plot101.style.editstyle line(color(green%75)) area(linestyle(color(green%75))) editcopy
+.plotregion1.Declare plot102 = .yxview.new , type(line) serset(`.sersets[79].objkey') yvariable(`.sersets[79].seriesof delay_pred') xvariable(`.sersets[79].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p12line) 
+.plotregion1.plot102.style.editstyle line(color(green%75)) area(linestyle(color(green%75))) editcopy
+.plotregion1.Declare plot103 = .yxview.new , type(line) serset(`.sersets[80].objkey') yvariable(`.sersets[80].seriesof delay_pred') xvariable(`.sersets[80].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p13line) 
+.plotregion1.plot103.style.editstyle line(color(green%75)) area(linestyle(color(green%75))) editcopy
+.plotregion1.Declare plot104 = .yxview.new , type(line) serset(`.sersets[81].objkey') yvariable(`.sersets[81].seriesof delay_pred') xvariable(`.sersets[81].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p14line) 
+.plotregion1.plot104.style.editstyle line(color(green%75)) area(linestyle(color(green%75))) editcopy
+.plotregion1.Declare plot105 = .yxview.new , type(line) serset(`.sersets[82].objkey') yvariable(`.sersets[82].seriesof delay_pred') xvariable(`.sersets[82].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p15line) 
+.plotregion1.plot105.style.editstyle line(color(green%75)) area(linestyle(color(green%75))) editcopy
+.plotregion1.Declare plot106 = .yxview.new , type(line) serset(`.sersets[83].objkey') yvariable(`.sersets[83].seriesof delay_pred') xvariable(`.sersets[83].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p1line) 
+.plotregion1.plot106.style.editstyle line(color(green%75)) area(linestyle(color(green%75))) editcopy
+.plotregion1.Declare plot107 = .yxview.new , type(line) serset(`.sersets[84].objkey') yvariable(`.sersets[84].seriesof delay_pred') xvariable(`.sersets[84].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p2line) 
+.plotregion1.plot107.style.editstyle line(color(green%75)) area(linestyle(color(green%75))) editcopy
+.plotregion1.Declare plot108 = .yxview.new , type(line) serset(`.sersets[85].objkey') yvariable(`.sersets[85].seriesof delay_pred') xvariable(`.sersets[85].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p3line) 
+.plotregion1.plot108.style.editstyle line(color(green%75)) area(linestyle(color(green%75))) editcopy
+.plotregion1.Declare plot109 = .yxview.new , type(line) serset(`.sersets[86].objkey') yvariable(`.sersets[86].seriesof delay_pred') xvariable(`.sersets[86].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p4line) 
+.plotregion1.plot109.style.editstyle line(color(green%75)) area(linestyle(color(green%75))) editcopy
+.plotregion1.Declare plot110 = .yxview.new , type(line) serset(`.sersets[87].objkey') yvariable(`.sersets[87].seriesof delay_mean_hour_predicted') xvariable(`.sersets[87].seriesof density_norm')     plotregion(`.plotregion1.objkey') style(scheme p5line) 
+.plotregion1.plot110.style.editstyle line(color(red)) area(linestyle(color(red))) line(pattern(dash)) area(linestyle(pattern(dash))) editcopy
+.plotregion1.clear_scales
+.plotregion1.reset_scales , noclear
+.n_views = 110
+.n_plotregions = 1
+.last_style = 110
+.x_scales = `" "1""'
+.y_scales = `" "1""'
+.create_axes 1 1 "9" "" 9
+.style.editstyle legend_ring(0) editcopy
+.style.editstyle legend_position(5) editcopy
+.insert (legend = .legend_g.new, graphs(`.objkey') style(scheme)) on plotregion1 , ring(0) 
+.legend.style.editstyle box_alignment(SE) editcopy
+.legend.holes = ""
+.legend.style.editstyle  cols(1) editcopy
+.legend.insert (note = .sized_textbox.new, mtextq(`""') style(scheme leg_note) ) below plotregion1 , ring(3) 
+.legend.note.style.editstyle box_alignment(SW) editcopy
+.legend.note.style.editstyle horizontal(left) editcopy
+.legend.insert (caption = .sized_textbox.new, mtextq(`""') style(scheme leg_caption) ) below plotregion1 , ring(5) 
+.legend.caption.style.editstyle box_alignment(SW) editcopy
+.legend.caption.style.editstyle horizontal(left) editcopy
+.legend.insert (subtitle = .sized_textbox.new, mtextq(`""') style(scheme leg_subtitle) ) above plotregion1 , ring(6) 
+.legend.subtitle.style.editstyle box_alignment(N) editcopy
+.legend.subtitle.style.editstyle horizontal(center) editcopy
+.legend.insert (title = .sized_textbox.new, mtextq(`""') style(scheme leg_title) ) above plotregion1 , ring(7) 
+.legend.title.style.editstyle box_alignment(N) editcopy
+.legend.title.style.editstyle horizontal(center) editcopy
+.legend.rebuild
+.legend.parse_order 1 "Mon-Sat" 108 "Sunday" 110 "all dates fit"
+.legend.repositionkeys
+.xaxis1.major.clear
+.xaxis1.major.range_ticks 0 2.5 0.5
+.xaxis1.reset_scale reinit
+.xaxis1.style.editstyle draw_major_grid(yes) editcopy
+.xaxis1.title.edit , mtextq(`""Traffic density""')   replace
+.yaxis1.major.clear
+.yaxis1.major.range_ticks 2 4.5 1
+.yaxis1.reset_scale reinit
+.yaxis1.style.editstyle draw_major_grid(yes) editcopy
+.yaxis1.style.editstyle majorstyle( tickstyle( show_labels(no)  ) ) editcopy
+.yaxis1.title.edit , mtextq(`"" ""')   replace
+.insert (r1title = .sized_textbox.new, mtextq(`""') style(scheme r1title) orientation(vertical)) rightof plotregion1 , ring(1) 
+.insert (r2title = .sized_textbox.new, mtextq(`""') style(scheme r2title) orientation(vertical)) rightof plotregion1 , ring(2) 
+.insert (l1title = .sized_textbox.new, mtextq(`""') style(scheme l1title) orientation(vertical)) leftof plotregion1 , ring(1) 
+.insert (l2title = .sized_textbox.new, mtextq(`""') style(scheme l2title) orientation(vertical)) leftof plotregion1 , ring(2) 
+.insert (t1title = .sized_textbox.new, mtextq(`""') style(scheme t1title) ) above plotregion1 , ring(1) 
+.insert (t2title = .sized_textbox.new, mtextq(`""') style(scheme t2title) ) above plotregion1 , ring(2) 
+.insert (b1title = .sized_textbox.new, mtextq(`""') style(scheme b1title) ) below plotregion1 , ring(1) 
+.insert (b2title = .sized_textbox.new, mtextq(`""') style(scheme b1title) ) below plotregion1 , ring(2) 
+.insert (note = .sized_textbox.new, mtextq(`""') style(scheme note) ) below plotregion1 , ring(4) 
+.note.style.editstyle box_alignment(SW) editcopy
+.note.style.editstyle horizontal(left) editcopy
+.insert (caption = .sized_textbox.new, mtextq(`""') style(scheme caption) ) below plotregion1 , ring(5) 
+.caption.style.editstyle box_alignment(SW) editcopy
+.caption.style.editstyle horizontal(left) editcopy
+.insert (subtitle = .sized_textbox.new, mtextq(`""') style(scheme subtitle) ) above plotregion1 , ring(6) 
+.subtitle.style.editstyle box_alignment(N) editcopy
+.subtitle.style.editstyle horizontal(center) editcopy
+.style.editstyle title_position(12) editcopy
+.style.editstyle title_ring(0) editcopy
+.insert (title = .sized_textbox.new, mtextq(`"" Fit by calendar date ""') style(scheme title) ) on plotregion1 , ring(0) 
+.title.style.editstyle box_alignment(N) editcopy
+.title.style.editstyle horizontal(center) editcopy
+.title.style.editstyle  size(medium) editcopy
+.insert (spacert = .spacer.new) above plotregion1 , ring(11)
+.insert (spacerb = .spacer.new) below plotregion1 , ring(11)
+.insert (spacerl = .spacer.new) leftof plotregion1 , ring(11)
+.insert (spacerr = .spacer.new) rightof plotregion1 , ring(11)
+.command = `"twoway (line delay_pred density_norm if date == 20920, lcolor(blue%20))                         (line delay_pred density_norm if date == 20921, lcolor(blue%20))                         (line delay_pred density_norm if date == 20922, lcolor(blue%20))                         (line delay_pred density_norm if date == 20923, lcolor(blue%20))                         (line delay_pred density_norm if date == 20924, lcolor(blue%20))                         (line delay_pred density_norm if date == 20927, lcolor(blue%20))                         (line delay_pred density_norm if date == 20928, lcolor(blue%20))                         (line delay_pred density_norm if date == 20929, lcolor(blue%20))                         (line delay_pred density_norm if date == 20930, lcolor(blue%20))                         (line delay_pred density_norm if date == 20931, lcolor(blue%20))                         (line delay_pred density_norm if date == 20933, lcolor(blue%20))                         (line delay_pred density_norm if date == 20934, lcolor(blue%20))                         (line delay_pred density_norm if date == 20935, lcolor(blue%20))                         (line delay_pred density_norm if date == 20936, lcolor(blue%20))                         (line delay_pred density_norm if date == 20937, lcolor(blue%20))                         (line delay_pred density_norm if date == 20938, lcolor(blue%20))                         (line delay_pred density_norm if date == 20941, lcolor(blue%20))                         (line delay_pred density_norm if date == 20942, lcolor(blue%20))                         (line delay_pred density_norm if date == 20943, lcolor(blue%20))                         (line delay_pred density_norm if date == 20944, lcolor(blue%20))                         (line delay_pred density_norm if date == 20945, lcolor(blue%20))                         (line delay_pred density_norm if date == 20947, lcolor(blue%20))                         (line delay_pred density_norm if date == 20948, lcolor(blue%20))                         (line delay_pred density_norm if date == 20949, lcolor(blue%20))                         (line delay_pred density_norm if date == 20950, lcolor(blue%20))                         (line delay_pred density_norm if date == 20951, lcolor(blue%20))                         (line delay_pred density_norm if date == 20952, lcolor(blue%20))                         (line delay_pred density_norm if date == 20954, lcolor(blue%20))                         (line delay_pred density_norm if date == 20955, lcolor(blue%20))                         (line delay_pred density_norm if date == 20956, lcolor(blue%20))                         (line delay_pred density_norm if date == 20957, lcolor(blue%20))                         (line delay_pred density_norm if date == 20958, lcolor(blue%20))                         (line delay_pred density_norm if date == 20959, lcolor(blue%20))                         (line delay_pred density_norm if date == 20961, lcolor(blue%20))                         (line delay_pred density_norm if date == 20962, lcolor(blue%20))                         (line delay_pred density_norm if date == 20963, lcolor(blue%20))                         (line delay_pred density_norm if date == 20964, lcolor(blue%20))                         (line delay_pred density_norm if date == 20965, lcolor(blue%20))                         (line delay_pred density_norm if date == 20966, lcolor(blue%20))                         (line delay_pred density_norm if date == 20968, lcolor(blue%20))                         (line delay_pred density_norm if date == 20969, lcolor(blue%20))                         (line delay_pred density_norm if date == 20970, lcolor(blue%20))                         (line delay_pred density_norm if date == 20971, lcolor(blue%20))                         (line delay_pred density_norm if date == 20972, lcolor(blue%20))                         (line delay_pred density_norm if date == 20973, lcolor(blue%20))                         (line delay_pred density_norm if date == 20975, lcolor(blue%20))                         (line delay_pred density_norm if date == 20976, lcolor(blue%20))                         (line delay_pred density_norm if date == 20977, lcolor(blue%20))                         (line delay_pred density_norm if date == 20978, lcolor(blue%20))                         (line delay_pred density_norm if date == 20979, lcolor(blue%20))                         (line delay_pred density_norm if date == 20980, lcolor(blue%20))                         (line delay_pred density_norm if date == 20982, lcolor(blue%20))                         (line delay_pred density_norm if date == 20983, lcolor(blue%20))                         (line delay_pred density_norm if date == 20984, lcolor(blue%20))                         (line delay_pred density_norm if date == 20985, lcolor(blue%20))                         (line delay_pred density_norm if date == 20986, lcolor(blue%20))                         (line delay_pred density_norm if date == 20987, lcolor(blue%20))                         (line delay_pred density_norm if date == 20989, lcolor(blue%20))                         (line delay_pred density_norm if date == 20990, lcolor(blue%20))                         (line delay_pred density_norm if date == 20991, lcolor(blue%20))                         (line delay_pred density_norm if date == 20992, lcolor(blue%20))                         (line delay_pred density_norm if date == 20993, lcolor(blue%20))                         (line delay_pred density_norm if date == 20994, lcolor(blue%20))                         (line delay_pred density_norm if date == 20996, lcolor(blue%20))                         (line delay_pred density_norm if date == 20997, lcolor(blue%20))                         (line delay_pred density_norm if date == 20998, lcolor(blue%20))                         (line delay_pred density_norm if date == 20999, lcolor(blue%20))                         (line delay_pred density_norm if date == 21000, lcolor(blue%20))                         (line delay_pred density_norm if date == 21001, lcolor(blue%20))                         (line delay_pred density_norm if date == 21003, lcolor(blue%20))                         (line delay_pred density_norm if date == 21004, lcolor(blue%20))                         (line delay_pred density_norm if date == 21005, lcolor(blue%20))                         (line delay_pred density_norm if date == 21006, lcolor(blue%20))                         (line delay_pred density_norm if date == 21007, lcolor(blue%20))                         (line delay_pred density_norm if date == 21008, lcolor(blue%20))                         (line delay_pred density_norm if date == 21010, lcolor(blue%20))                         (line delay_pred density_norm if date == 21011, lcolor(blue%20))                         (line delay_pred density_norm if date == 21012, lcolor(blue%20))                         (line delay_pred density_norm if date == 21013, lcolor(blue%20))                         (line delay_pred density_norm if date == 21014, lcolor(blue%20))                         (line delay_pred density_norm if date == 21015, lcolor(blue%20))                         (line delay_pred density_norm if date == 21017, lcolor(blue%20))                         (line delay_pred density_norm if date == 21018, lcolor(blue%20))                         (line delay_pred density_norm if date == 21019, lcolor(blue%20))                         (line delay_pred density_norm if date == 21020, lcolor(blue%20))                         (line delay_pred density_norm if date == 21021, lcolor(blue%20))                         (line delay_pred density_norm if date == 21022, lcolor(blue%20))                         (line delay_pred density_norm if date == 21024, lcolor(blue%20))                         (line delay_pred density_norm if date == 21025, lcolor(blue%20))                         (line delay_pred density_norm if date == 21026, lcolor(blue%20))                         (line delay_pred density_norm if date == 21027, lcolor(blue%20))                         (line delay_pred density_norm if date == 21028, lcolor(blue%20))                         (line delay_pred density_norm if date == 21029, lcolor(blue%20))                         (line delay_pred density_norm if date == 21031, lcolor(blue%20))                         (line delay_pred density_norm if date == 21032, lcolor(blue%20))                         (line delay_pred density_norm if date == 21033, lcolor(blue%20))                         (line delay_pred density_norm if date == 21034, lcolor(blue%20))                         (line delay_pred density_norm if date == 21035, lcolor(blue%20))                         (line delay_pred density_norm if date == 21040, lcolor(blue%20))                         (line delay_pred density_norm if date == 20939, lcolor(green%75))                         (line delay_pred density_norm if date == 20946, lcolor(green%75))                         (line delay_pred density_norm if date == 20953, lcolor(green%75))                         (line delay_pred density_norm if date == 20960, lcolor(green%75))                         (line delay_pred density_norm if date == 20967, lcolor(green%75))                         (line delay_pred density_norm if date == 20974, lcolor(green%75))                         (line delay_pred density_norm if date == 20981, lcolor(green%75))                         (line delay_pred density_norm if date == 20988, lcolor(green%75))                         (line delay_pred density_norm if date == 20995, lcolor(green%75))                         (line delay_pred density_norm if date == 21009, lcolor(green%75))                         (line    delay_mean_hour_predicted      density_norm, lcolor(red) lpattern(dash) sort )                         , legend(order(1 "Mon-Sat" 108 "Sunday" 110 "all dates fit") cols(1) position(5) ring(0) ) graphregion(color(white))                         xlabel(0(0.5)2.5, grid) xtitle("Traffic density") ylabel(2(1)4.5, nolabels grid) ytitle(" ")                         title(" Fit by calendar date ", position(12) ring(0) size(medium))"'
+.date = "28 Jun 2023"
+.time = "22:21:42"
+.dta_file = "data/coded_road_tech/density_th.dta"
+.dta_date = "28 Jun 2023 21:46"
+<EndItem>
